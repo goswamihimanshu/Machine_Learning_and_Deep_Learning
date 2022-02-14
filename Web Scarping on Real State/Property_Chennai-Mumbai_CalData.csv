@@ -1,0 +1,576 @@
+Location,Area,Type,BHK,Furnish,Transaction,Status,Price_Lac,Area_Sqft,Price/Sqft
+Chennai,Perambur,Flat,2.0,Unfurnish,New Property,Dec 2021,90.0,1100.0,8182.0
+Chennai,Thirumazhisai,Flat,1.0,Unfurnish,New Property,Dec 2023,29.7,544.0,5450.0
+Chennai,Perumbakkam,Flat,2.0,Furnish,New Property,Sep 2023,28.6,796.0,3599.0
+Chennai,Thalambur,Flat,2.0,Unfurnish,New Property,Mar 2024,48.5,1026.0,4724.0
+Chennai,Perungalathur Chennai Bypass Road,Flat,2.0,Unfurnish,New Property,Jul 2022,44.0,903.0,4877.0
+Chennai,Sembakkam,Flat,3.0,Unfurnish,New Property,Jul 2022,104.0,1550.0,6749.0
+Chennai,G S T Road,Flat,2.0,Unfurnish,New Property,Dec 2021,78.7,1455.0,5407.0
+Chennai,Tambaram East,Flat,2.0,Unfurnish,New Property,Sep 2022,71.3,1004.0,7100.0
+Chennai,Medavakkam,Flat,3.0,Unfurnish,New Property,Nov 2022,90.2,1280.0,7049.0
+Chennai,Padur Old Mahabalipuram Road,Flat,3.0,Unfurnish,New Property,Mar 2023,44.6,918.0,4855.0
+Chennai,Sholinganallur,Flat,2.0,Unfurnish,New Property,Sep 2024,64.3,1064.0,6042.0
+Chennai,Thoraipakkam,Flat,2.0,Unfurnish,New Property,Dec 2021,103.0,1291.0,8000.0
+Chennai,Vanagaram,Flat,3.0,Unfurnish,New Property,Feb 2024,91.7,1528.0,5999.0
+Chennai,Kottivakkam,Flat,3.0,Unfurnish,New Property,Dec 2021,101.0,1271.0,7999.0
+Chennai,Siruseri,Flat,3.0,Unfurnish,New Property,Dec 2021,85.0,1685.0,5045.0
+Chennai,Siruseri,Flat,1.0,Unfurnish,New Property,Dec 2022,21.9,495.0,4433.0
+Chennai,Thoraipakkam,Flat,2.0,Unfurnish,New Property,Dec 2021,81.3,1452.0,5599.0
+Chennai,Mogappair West,Flat,2.0,Unfurnish,New Property,Dec 2024,89.0,1288.0,6910.0
+Chennai,Saligramam,Flat,2.0,Unfurnish,New Property,Jun 2022,94.5,945.0,9999.0
+Chennai,Nerkundram Koyambedu,Flat,2.0,Unfurnish,New Property,Apr 2022,80.7,1241.0,6499.0
+Chennai,Porur,Flat,3.0,Unfurnish,New Property,Dec 2023,69.7,1268.0,5499.0
+Chennai,Navalur,Flat,4.0,Unfurnish,New Property,Dec 2021,120.0,2343.0,5122.0
+Chennai,Old Mahabalipuram Road,Flat,3.0,Unfurnish,New Property,Jul 2024,49.7,1080.0,4599.0
+Chennai,Siruseri,Flat,2.0,Unfurnish,New Property,Apr 2022,38.5,1132.0,3399.0
+Chennai,Guindy,Flat,3.0,Unfurnish,New Property,Dec 2021,119.0,1590.0,7499.0
+Chennai,Keelkattalai,Flat,3.0,Unfurnish,New Property,Jun 2023,87.4,1410.0,6199.0
+Chennai,Medavakkam,Flat,3.0,Unfurnish,New Property,Mar 2022,87.7,1595.0,5500.0
+Chennai,Kolapakkam,Flat,3.0,Unfurnish,New Property,May 2023,72.5,1318.0,5500.0
+Chennai,Ambattur,Flat,3.0,Unfurnish,New Property,Dec 2021,80.5,1674.0,4808.0
+Chennai,Valasaravakkam Arcot Road,Flat,3.0,Unfurnish,New Property,Mar 2024,124.0,1513.0,8215.0
+Chennai,Madipakkam,Flat,2.0,Unfurnish,New Property,Dec 2021,33.9,754.0,4500.0
+Chennai,Anakaputhur,Flat,1.0,Unfurnish,New Property,Dec 2022,22.3,445.0,5000.0
+Chennai,Virugambakkam,Flat,3.0,Unfurnish,New Property,Dec 2021,119.0,1190.0,10000.0
+Chennai,Chromepet GST Road,Flat,3.0,Unfurnish,New Property,Dec 2021,61.7,1470.0,4195.0
+Chennai,Chromepet GST Road,Flat,3.0,Unfurnish,New Property,Aug 2022,72.6,1153.0,6300.0
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,2.0,Unfurnish,New Property,Dec 2021,48.4,1274.0,3799.0
+Chennai,Porur,Flat,2.0,Unfurnish,New Property,Dec 2021,59.3,1078.0,5500.0
+Chennai,Gerugambakkam Chennai Bypass Road,Flat,3.0,Unfurnish,New Property,Jun 2022,66.6,1480.0,4500.0
+Chennai,Ambattur,Flat,3.0,Unfurnish,New Property,Mar 2022,63.2,1345.0,4699.0
+Chennai,Mogappair West,Flat,3.0,Unfurnish,New Property,Dec 2024,143.0,1878.0,7614.0
+Chennai,Perambur,Flat,2.0,Unfurnish,New Property,Dec 2021,40.8,741.0,5500.0
+Chennai,Pallavaram,Flat,2.0,Unfurnish,New Property,Dec 2021,62.8,1064.0,5899.0
+Chennai,Sholinganallur,Flat,3.0,Unfurnish,New Property,Dec 2021,75.6,1410.0,5362.0
+Chennai,Perumbakkam,Flat,2.0,Unfurnish,New Property,Dec 2021,34.6,989.0,3499.0
+Chennai,Pallavaram,Flat,2.0,Unfurnish,New Property,Feb 2022,72.8,807.0,9021.07
+Chennai,Perungudi,Flat,3.0,Unfurnish,New Property,Jun 2023,128.0,1723.0,7450.0
+Chennai,Medavakkam,Flat,2.0,Unfurnish,New Property,Jun 2023,47.7,742.0,6428.57
+Chennai,Medavakkam,Flat,3.0,Unfurnish,New Property,Jun 2022,57.8,1314.0,4399.0
+Chennai,Valasaravakkam Arcot Road,Flat,2.0,Unfurnish,New Property,Apr 2022,71.8,921.0,7799.0
+Chennai,Padur Old Mahabalipuram Road,Flat,3.0,Unfurnish,New Property,Mar 2023,43.0,918.0,4684.0
+Chennai,Chitlapakkam,Flat,3.0,Unfurnish,New Property,Dec 2021,72.6,1252.0,5800.0
+Chennai,Kattupakkam PH Road,Flat,3.0,Unfurnish,New Property,Dec 2021,81.0,1473.0,5499.0
+Chennai,Thoraipakkam,Flat,1.0,Unfurnish,New Property,Dec 2021,39.8,569.0,7000.0
+Chennai,Perumbakkam,Flat,2.0,Unfurnish,New Property,Dec 2022,31.8,849.0,3750.0
+Chennai,Pallavaram,Flat,2.0,Unfurnish,New Property,Dec 2021,80.8,1122.0,7201.0
+Chennai,Korattur Jawaharlal Nehru Road,Flat,2.0,Unfurnish,New Property,Dec 2021,87.0,1085.0,8018.43
+Chennai,Perungudi,Flat,1.0,Unfurnish,New Property,Jul 2023,52.3,393.0,13307.89
+Chennai,Navalur,Flat,3.0,Unfurnish,New Property,Dec 2021,82.0,1103.0,7434.27
+Chennai,Thoraipakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,72.0,1100.0,6545.45
+Chennai,Sholinganallur,Flat,2.0,Unfurnish,New Property,Dec 2021,87.0,1237.0,7033.0
+Chennai,Adambakkam,Flat,1.0,Furnish,New Property,Dec 2021,43.0,455.0,9450.55
+Chennai,Perumbakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,62.0,1489.0,4164.0
+Chennai,Mahindra World City,Flat,2.0,Furnish,Old Property,Dec 2021,33.0,612.0,5392.16
+Chennai,Mahabalipuram,Flat,2.0,Furnish,Old Property,Dec 2021,125.0,1140.0,10964.0
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,2.0,Unfurnish,New Property,Mar 2022,39.8,994.0,3999.0
+Chennai,Kovilambakkam,Flat,2.0,Unfurnish,New Property,Jan 2022,61.4,691.0,8885.67
+Chennai,Poonamalle,Flat,4.0,Unfurnish,New Property,Dec 2021,75.8,1710.0,4433.0
+Chennai,Padur Old Mahabalipuram Road,Flat,3.0,Unfurnish,New Property,Dec 2021,88.0,1196.0,7357.86
+Chennai,Perumbakkam,Flat,2.0,Furnish,Old Property,Dec 2021,63.0,900.0,7000.0
+Chennai,Karapakkam,Flat,2.0,Furnish,New Property,Dec 2021,75.0,1040.0,6250.0
+Chennai,Guduvancheri,Flat,2.0,Unfurnish,New Property,Jun 2022,45.0,777.0,5791.51
+Chennai,Thalambur,Flat,2.0,Unfurnish,New Property,Mar 2024,42.0,780.0,5384.62
+Chennai,Madipakkam,Flat,3.0,Unfurnish,New Property,Dec 2021,66.7,1150.0,5800.0
+Chennai,Guduvancheri,Flat,3.0,Unfurnish,New Property,Dec 2021,57.0,860.0,6627.91
+Chennai,Nanmangalam,Flat,3.0,Unfurnish,New Property,Dec 2021,49.2,1020.0,4823.53
+Chennai,Madipakkam,Flat,3.0,Unfurnish,Old Property,Dec 2021,85.0,1155.0,7359.31
+Chennai,Kolathur,Flat,3.0,Unfurnish,New Property,Oct 2022,98.8,1456.0,6788.0
+Chennai,KarthikeyaPuram Madipakkam,Flat,3.0,Furnish,New Property,Jan 2022,93.9,1490.0,6302.01
+Chennai,Kovur,Flat,2.0,Unfurnish,New Property,Dec 2021,40.5,1012.0,3999.0
+Chennai,Mogappair West,Flat,3.0,Furnish,New Property,Dec 2021,117.0,1141.0,10254.16
+Chennai,Dharmarajapuram Kolapakkam,Flat,3.0,Unfurnish,New Property,Dec 2021,87.5,968.0,9039.26
+Chennai,Karapakkam,Flat,3.0,Unfurnish,New Property,Dec 2021,85.0,1307.0,6495.0
+Chennai,Siruseri,Flat,2.0,Unfurnish,New Property,Dec 2021,34.5,822.0,4199.0
+Chennai,Sholinganallur,Flat,3.0,Furnish,New Property,Sep 2024,80.0,912.0,8771.93
+Chennai,Sholinganallur,Flat,3.0,Furnish,Old Property,Dec 2021,85.0,1275.0,6666.67
+Chennai,Adambakkam,Flat,2.0,Unfurnish,New Property,Jun 2022,81.4,937.0,8684.0
+Chennai,Pammal,Flat,2.0,Unfurnish,New Property,Dec 2021,37.4,780.0,4800.0
+Chennai,Adambakkam,Flat,2.0,Unfurnish,New Property,Jan 2022,86.0,786.0,10941.48
+Chennai,Perungudi,Flat,1.0,Furnish,New Property,Dec 2022,46.0,600.0,7667.0
+Chennai,Tiruvenkadam Nagar,Flat,3.0,Furnish,New Property,Dec 2021,84.0,907.0,9261.3
+Chennai,Sembakkam,Flat,3.0,Unfurnish,New Property,Mar 2022,64.4,923.0,6977.25
+Chennai,Medavakkam,Flat,2.0,Unfurnish,New Property,Dec 2021,48.0,800.0,6000.0
+Chennai,Mogappair West,Flat,2.0,Unfurnish,New Property,Sep 2023,86.2,1288.0,6690.0
+Chennai,Tiruvottiyur,Flat,3.0,Unfurnish,New Property,Dec 2021,48.0,1117.0,4300.0
+Chennai,Thirumazhisai,Flat,3.0,Unfurnish,New Property,Mar 2024,29.2,620.0,4709.68
+Chennai,Poonamallee,Flat,2.0,Unfurnish,New Property,Jan 2022,47.0,622.0,7556.27
+Chennai,Pallikaranai,Flat,3.0,Unfurnish,New Property,Jan 2022,81.7,1080.0,7564.81
+Chennai,Manapakkam,Flat,3.0,Unfurnish,New Property,Jul 2022,85.8,1027.0,8354.43
+Chennai,Kottivakkam,Flat,2.0,Unfurnish,New Property,Mar 2022,85.3,1066.0,7999.0
+Chennai,Virugambakkam,Flat,3.0,Unfurnish,New Property,Mar 2022,131.0,1450.0,9034.0
+Chennai,Sholinganallur,Flat,2.0,Unfurnish,New Property,Mar 2022,57.3,1245.0,4599.0
+Chennai,Madipakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,67.6,850.0,7952.94
+Chennai,Iyyappanthangal,Flat,1.0,Furnish,Old Property,Dec 2021,48.0,500.0,9600.0
+Chennai,Perungudi,Flat,2.0,Unfurnish,New Property,Jan 2023,52.0,799.0,6508.14
+Chennai,Kamakoti Nagar Pallikaranai,Flat,3.0,Unfurnish,New Property,Aug 2022,81.2,1400.0,5800.0
+Chennai,Tambaram East,Flat,3.0,Unfurnish,New Property,Oct 2022,69.0,927.0,7443.37
+Chennai,Perungudi,Flat,2.0,Unfurnish,New Property,Dec 2022,88.0,1184.0,7432.0
+Chennai,Chromepet GST Road,Flat,3.0,Unfurnish,New Property,Jan 2022,75.8,1170.0,6478.63
+Chennai,Perungudi,Flat,3.0,Unfurnish,New Property,Apr 2022,72.0,1006.0,7157.06
+Chennai,Mogappair West,Flat,2.0,Unfurnish,New Property,Sep 2023,72.1,678.0,10634.22
+Chennai,Madambakkam,Flat,2.0,Furnish,Old Property,Dec 2021,51.0,576.0,8854.17
+Chennai,Vetri Nagar Perambur,Flat,1.0,Furnish,Old Property,Dec 2021,35.0,500.0,7000.0
+Chennai,New Avadi Road,Flat,2.0,Unfurnish,Old Property,Dec 2021,90.0,1028.0,8754.0
+Chennai,Karayanchavadi,Flat,2.0,Unfurnish,Old Property,Dec 2021,38.0,725.0,5241.38
+Chennai,Oragadam,Flat,3.0,Furnish,New Property,Dec 2021,98.0,1400.0,7000.0
+Chennai,Ponmar,Flat,2.0,Furnish,Old Property,Dec 2021,30.0,645.0,4651.16
+Chennai,Guduvancheri,Flat,3.0,Furnish,Old Property,Dec 2021,62.5,1514.0,4128.14
+Chennai,Perungudi,Flat,3.0,Unfurnish,Old Property,Dec 2021,99.0,1402.0,7061.34
+Chennai,Varadaraja Puram Ambattur,Flat,3.0,Furnish,Old Property,Dec 2021,65.0,1784.0,3643.0
+Chennai,Mudichur,Flat,2.0,Unfurnish,Old Property,Dec 2021,39.0,745.0,5235.0
+Chennai,Nanmangalam,Flat,2.0,Unfurnish,Old Property,Dec 2021,34.5,700.0,4928.57
+Chennai,Pasumpon Nagar Kallikuppam Ambattur Chennai Bypass Road,Flat,2.0,Furnish,New Property,Dec 2021,45.0,874.0,5148.74
+Chennai,Kattukuppam Ennore,Flat,2.0,Furnish,Old Property,Dec 2021,44.0,912.0,4824.56
+Chennai,Kandigai,Flat,3.0,Unfurnish,Old Property,Dec 2021,60.0,1262.0,4754.36
+Chennai,Mogappair East,Flat,3.0,Unfurnish,Old Property,Dec 2021,110.00000000000001,1000.0,11000.0
+Chennai,Kazhipattur,Flat,2.0,Unfurnish,Old Property,Dec 2021,40.0,986.0,4056.8
+Chennai,T Nagar,Flat,3.0,Unfurnish,Old Property,Dec 2021,131.0,1165.0,11244.64
+Chennai,Ponmar,Flat,3.0,Unfurnish,Old Property,Dec 2021,45.0,1280.0,3515.62
+Chennai,Kovilambakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,40.0,1050.0,3810.0
+Chennai,Oragadam,Flat,3.0,Unfurnish,Old Property,Dec 2021,60.0,1320.0,4545.0
+Chennai,Pallikaranai,Flat,1.0,Furnish,Old Property,Dec 2021,38.0,620.0,6129.0
+Chennai,Nandivaram Guduvancheri,Flat,2.0,Unfurnish,Old Property,Dec 2021,40.0,900.0,4444.0
+Chennai,Athipatttu,Flat,1.0,Furnish,Old Property,Dec 2021,30.0,630.0,4762.0
+Chennai,Unknown,Flat,3.0,Unfurnish,Old Property,Dec 2021,70.0,1410.0,4965.0
+Chennai,Mogappair West,Flat,2.0,Furnish,Old Property,Dec 2021,61.3,1019.0,6016.0
+Chennai,Jamalia,Flat,2.0,Furnish,Old Property,Dec 2021,47.0,590.0,7966.0
+Chennai,Oragadam,Flat,2.0,Furnish,Old Property,Dec 2021,45.0,515.0,8737.86
+Chennai,Padapai,Flat,2.0,Unfurnish,New Property,Dec 2021,35.0,969.0,3611.97
+Chennai,Ayanambakkam,Flat,3.0,Furnish,Old Property,Dec 2021,95.0,1805.0,5263.0
+Chennai,Perungudi,Flat,3.0,Furnish,Old Property,Dec 2021,114.99999999999999,1525.0,7541.0
+Chennai,Korattur Jawaharlal Nehru Road,Flat,2.0,Unfurnish,Old Property,Dec 2021,80.0,1091.0,7333.0
+Chennai,Keelkattalai,Flat,1.0,Unfurnish,New Property,Dec 2021,36.0,600.0,6000.0
+Chennai,Unknown,Flat,2.0,Unfurnish,Old Property,Dec 2021,30.0,831.0,3610.0
+Chennai,Thalambur,Flat,2.0,Unfurnish,Old Property,Dec 2021,45.0,832.0,5409.0
+Chennai,Perungalathur Chennai Bypass Road,Flat,3.0,Furnish,Old Property,Dec 2021,75.0,1350.0,5555.56
+Chennai,Perambur,Flat,2.0,Furnish,Old Property,Dec 2021,50.0,875.0,5714.0
+Chennai,Madhavaram Guntur Chennai Highway,Flat,2.0,Furnish,Old Property,Jan 2022,72.8,894.0,8143.18
+Chennai,Selaiyur,Flat,2.0,Furnish,Old Property,Dec 2021,62.0,976.0,6352.46
+Chennai,Kolathur,Flat,2.0,Unfurnish,Old Property,May 2022,56.5,589.0,9592.53
+Chennai,Ambedkar Nagar Manapakkam,Flat,3.0,Furnish,Old Property,Dec 2021,90.0,1200.0,7500.0
+Chennai,Perumbakkam,Flat,3.0,Unfurnish,Old Property,Dec 2021,80.0,1476.0,5420.0
+Chennai,Pudupakkam,Flat,3.0,Unfurnish,Old Property,Dec 2021,114.99999999999999,1953.0,5888.0
+Chennai,Valasaravakkam Arcot Road,Flat,2.0,Unfurnish,New Property,Dec 2021,64.8,850.0,7624.0
+Chennai,Madipakkam,Flat,2.0,Furnish,Old Property,Dec 2021,45.0,750.0,6000.0
+Chennai,Thirumullaivoyal,Flat,2.0,Furnish,Old Property,Dec 2021,39.0,480.0,8125.0
+Chennai,Tambaram West Tambaram Chennai Bypass Road,Flat,3.0,Furnish,Old Property,Dec 2021,55.0,1226.0,4486.13
+Chennai,Egattur Uthandi,Flat,3.0,Furnish,Old Property,Dec 2021,135.0,1695.0,7965.0
+Chennai,Ponniammanmedu,Flat,2.0,Unfurnish,Old Property,Jan 2022,72.8,894.0,8143.18
+Chennai,Surapet,Flat,2.0,Unfurnish,New Property,Dec 2021,45.0,920.0,5521.0
+Chennai,Krishna Nagar Tambaram West,Flat,3.0,Unfurnish,Old Property,Dec 2021,55.0,1034.0,5319.15
+Chennai,Virugambakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,80.0,1200.0,6666.67
+Chennai,Ambattur,Flat,3.0,Furnish,New Property,Dec 2021,69.6,1600.0,4350.0
+Chennai,Navalur,Flat,3.0,Unfurnish,Old Property,Dec 2021,114.99999999999999,1350.0,8518.52
+Chennai,Velachery,Flat,3.0,Unfurnish,New Property,Jan 2023,145.0,1300.0,11153.85
+Chennai,Ram Garden Soumya Nagar,Flat,2.0,Unfurnish,Old Property,Dec 2021,62.0,687.0,9024.75
+Chennai,Shanmuga Nagar Pozhichalur,Flat,3.0,Furnish,Old Property,Dec 2021,90.0,1460.0,6164.38
+Chennai,Pallavaram,Flat,2.0,Unfurnish,New Property,Aug 2022,72.5,1024.0,7080.0
+Chennai,Padmavathi Nagar,Flat,1.0,Unfurnish,Old Property,Dec 2021,35.0,435.0,8045.98
+Chennai,Veerabhadra Nagar,Flat,2.0,Unfurnish,Old Property,Dec 2021,48.4,1100.0,4400.0
+Chennai,Pallikaranai,Flat,2.0,Furnish,Old Property,Dec 2021,43.0,880.0,4886.36
+Chennai,Navalur,Flat,2.0,Unfurnish,New Property,Apr 2022,47.0,785.0,5987.26
+Chennai,Oragadam Sriperumbudur,Flat,3.0,Furnish,Old Property,Dec 2021,38.0,885.0,4293.79
+Chennai,Padur Old Mahabalipuram Road,Flat,2.0,Unfurnish,New Property,Dec 2021,52.0,750.0,6933.33
+Chennai,Karpagam Avenue,Flat,1.0,Furnish,Old Property,Dec 2021,42.0,550.0,7636.36
+Chennai,Perumbakkam,Flat,3.0,Furnish,Old Property,Dec 2021,90.0,1704.0,5281.69
+Chennai,Oragadam,Flat,3.0,Unfurnish,Old Property,Dec 2021,69.9,1500.0,4660.0
+Chennai,Thiruporur,Flat,2.0,Unfurnish,Old Property,Dec 2021,27.0,1150.0,2348.0
+Chennai,Mahindra World City,Flat,1.0,Furnish,Old Property,Dec 2021,30.0,595.0,5042.02
+Chennai,Mambalam West,Flat,2.0,Unfurnish,Old Property,Dec 2021,135.0,1000.0,13500.0
+Chennai,VGN Mahalakshmi Nagar Maduravoyal,Flat,3.0,Furnish,Old Property,Dec 2021,59.0,1096.0,5383.0
+Chennai,Seetha Nagar Nungambakkam,Flat,2.0,Furnish,Old Property,Dec 2021,85.0,852.0,9977.0
+Chennai,Navalur,Flat,3.0,Furnish,Old Property,Dec 2021,80.0,1567.0,5105.0
+Chennai,Irungattukottai,Flat,2.0,Furnish,Old Property,Dec 2021,30.0,824.0,3641.0
+Chennai,Tambaram GST Road,Flat,2.0,Furnish,Old Property,Dec 2021,38.7,647.0,5981.45
+Chennai,Ram Nagar South Extension Madipakkam,Flat,2.0,Furnish,Old Property,Dec 2021,47.0,750.0,6266.67
+Chennai,Kalavakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,30.0,800.0,3750.0
+Chennai,Selaiyur,Flat,2.0,Furnish,Old Property,Dec 2021,46.0,1012.0,4545.0
+Chennai,Tambaram GST Road,Flat,2.0,Unfurnish,Old Property,Dec 2021,42.0,961.0,4370.45
+Chennai,Kottivakkam,Flat,2.0,Unfurnish,New Property,Dec 2021,137.0,780.0,17564.1
+Chennai,Old Mahabalipuram Road,Flat,2.0,Furnish,Old Property,Dec 2021,35.0,993.0,3525.0
+Chennai,Kotturpuram,Flat,1.0,Furnish,Old Property,Dec 2021,47.0,510.0,9215.69
+Chennai,Thirumullaivoyal Rajiv Gandhi Nagar Vanagaram,Flat,3.0,Furnish,Old Property,Dec 2021,48.0,1070.0,4074.0
+Chennai,Kilpauk,Flat,2.0,Unfurnish,Old Property,Dec 2021,68.0,780.0,8717.95
+Chennai,Tambaram East,Flat,2.0,Furnish,Old Property,Dec 2021,48.0,775.0,6193.55
+Chennai,Hasthinapuram,Flat,2.0,Furnish,Old Property,Dec 2021,54.3,913.0,5947.43
+Chennai,Tambaram East,Flat,2.0,Unfurnish,Old Property,Dec 2021,69.0,1260.0,5476.0
+Chennai,Mogappair,Flat,2.0,Furnish,Old Property,Dec 2021,57.3,782.0,7320.0
+Chennai,Nandivaram Guduvancheri,Flat,2.0,Furnish,Old Property,Dec 2021,30.0,837.0,3584.0
+Chennai,Mugalivakkam,Flat,2.0,Unfurnish,Old Property,Jan 2022,60.5,815.0,7423.31
+Chennai,Alandur,Flat,3.0,Furnish,Old Property,Dec 2021,79.9,1150.0,6947.0
+Chennai,Medavakkam,Flat,2.0,Furnish,Old Property,Dec 2021,60.0,1200.0,5000.0
+Chennai,Banu Nagar,Flat,3.0,Unfurnish,Old Property,Dec 2021,70.0,1690.0,4142.0
+Chennai,Surapet,Flat,1.0,Unfurnish,New Property,Dec 2021,26.0,425.0,6117.65
+Chennai,Ambattur,Flat,2.0,Unfurnish,New Property,Dec 2021,49.0,1015.0,4827.59
+Chennai,Tambaram Sanatorium,Flat,3.0,Furnish,Old Property,Dec 2021,82.2,1126.0,7300.18
+Chennai,Pallikaranai,Flat,2.0,Furnish,Old Property,Dec 2021,35.0,860.0,4070.0
+Chennai,Thirumazhisai,Flat,1.0,Unfurnish,Old Property,Dec 2021,24.3,538.0,4516.73
+Chennai,KK Nagar,Flat,2.0,Furnish,New Property,Dec 2021,69.0,660.0,10454.55
+Chennai,Thiruporur,Flat,3.0,Furnish,Old Property,Dec 2021,30.0,1095.0,2739.0
+Chennai,Poonamalle,Flat,2.0,Unfurnish,Old Property,Dec 2021,56.0,686.0,8163.27
+Chennai,Velachery,Flat,2.0,Unfurnish,Old Property,Jan 2022,85.0,840.0,10119.05
+Chennai,Unknown,Flat,3.0,Unfurnish,Old Property,Dec 2021,78.0,1278.0,6103.29
+Chennai,Unknown,Flat,3.0,Unfurnish,Old Property,Dec 2021,55.0,1251.0,4396.48
+Chennai,Pattabiram Chennai Tiruttani Highway,Flat,2.0,Furnish,Old Property,Dec 2021,50.0,1000.0,5000.0
+Chennai,Tiruvottiyur,Flat,5.0,Unfurnish,Old Property,Dec 2021,120.0,1635.0,7339.0
+Chennai,Poonamalle,Flat,2.0,Unfurnish,Old Property,Dec 2021,51.0,1048.0,4866.0
+Chennai,Madipakkam,Flat,1.0,Unfurnish,Old Property,Dec 2021,33.1,675.0,4903.7
+Chennai,Maraimalai Nagar,Flat,3.0,Furnish,Old Property,Dec 2021,60.0,1949.0,3078.0
+Chennai,Mangadu,Flat,2.0,Furnish,Old Property,Jan 2022,35.0,720.0,4861.11
+Chennai,Choolai,Flat,3.0,Unfurnish,Old Property,Dec 2021,139.0,1300.0,10692.31
+Chennai,KK Nagar,Flat,2.0,Unfurnish,Old Property,Dec 2021,65.0,495.0,13131.31
+Chennai,Ambattur,Flat,3.0,Unfurnish,Old Property,Dec 2021,45.0,1000.0,4500.0
+Chennai,Madipakkam,Flat,3.0,Furnish,Old Property,Dec 2021,95.0,1265.0,7509.88
+Chennai,West Jafferkhanpet,Flat,2.0,Unfurnish,Old Property,Dec 2021,45.0,746.0,6032.0
+Chennai,Thirumullaivoyal,Flat,3.0,Furnish,Old Property,Dec 2021,60.0,850.0,7058.82
+Chennai,Habibullah Road,Flat,3.0,Unfurnish,Old Property,Dec 2021,110.00000000000001,1000.0,11000.0
+Chennai,Kolapakkam,Flat,3.0,Furnish,New Property,Dec 2021,68.0,1100.0,6181.82
+Chennai,Kolapakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,37.0,720.0,5138.89
+Chennai,Pallikaranai,Flat,2.0,Furnish,Old Property,Dec 2021,43.0,725.0,5931.03
+Chennai,Ayanambakkam,Flat,3.0,Unfurnish,Old Property,Dec 2021,90.0,1292.0,6965.94
+Chennai,Kovilambakkam,Flat,2.0,Furnish,Old Property,Dec 2021,55.0,900.0,6111.11
+Chennai,Porur,Flat,3.0,Furnish,Old Property,Dec 2021,138.0,1485.0,9292.93
+Chennai,Kazhipattur,Flat,3.0,Unfurnish,Old Property,Dec 2021,52.0,1275.0,4078.0
+Chennai,Keelkattalai,Flat,2.0,Unfurnish,Old Property,Dec 2021,52.0,875.0,5942.0
+Chennai,Okkiyam Thuraipakkam E Coast Road,Flat,2.0,Furnish,Old Property,Dec 2021,55.4,808.0,6856.44
+Chennai,Chettipunyam,Flat,2.0,Furnish,Old Property,Dec 2021,45.0,462.0,9740.26
+Chennai,Ambattur Industrial Estate Chennai Bypass Road,Flat,2.0,Unfurnish,Old Property,Dec 2021,95.0,1200.0,7916.67
+Chennai,Ayanavaram,Flat,1.0,Unfurnish,Old Property,Dec 2021,40.0,480.0,8333.33
+Chennai,Korattur Jawaharlal Nehru Road,Flat,2.0,Unfurnish,Old Property,Dec 2021,85.0,770.0,11038.96
+Chennai,Perumbakkam,Flat,2.0,Furnish,Old Property,Dec 2021,47.0,600.0,7833.33
+Chennai,Padur Old Mahabalipuram Road,Flat,3.0,Furnish,Old Property,Dec 2021,62.0,950.0,6526.32
+Chennai,Besant Nagar,Flat,1.0,Unfurnish,Old Property,Dec 2021,123.0,885.0,14000.0
+Chennai,Sithalapakkam,Flat,3.0,Furnish,Old Property,Dec 2021,70.0,1100.0,6363.64
+Chennai,Royapuram,Flat,3.0,Furnish,Old Property,Dec 2021,130.0,1000.0,13000.0
+Chennai,Iyyappanthangal,Flat,2.0,Furnish,Old Property,Dec 2021,44.0,300.0,14666.67
+Chennai,Madhanandapuram Chennai Bypass Road,Flat,2.0,Unfurnish,New Property,Dec 2021,45.4,850.0,5341.18
+Chennai,Navalur,Flat,3.0,Furnish,Old Property,Dec 2021,120.0,1400.0,8571.43
+Chennai,Vanagaram,Flat,2.0,Unfurnish,New Property,Dec 2021,58.0,1018.0,5697.0
+Chennai,Kaspapuram,Flat,2.0,Furnish,Old Property,Dec 2021,35.0,920.0,3804.0
+Chennai,Siruseri,Flat,2.0,Unfurnish,Old Property,Dec 2021,40.0,896.0,4464.29
+Chennai,Kalavakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,32.3,898.0,3596.88
+Chennai,Tambaram West Tambaram Chennai Bypass Road,Flat,3.0,Furnish,Old Property,Dec 2021,60.0,1294.0,4637.0
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,2.0,Furnish,Old Property,Dec 2021,25.0,636.0,3930.82
+Chennai,Kotturpuram,Flat,2.0,Unfurnish,Old Property,Dec 2021,140.0,1240.0,11290.0
+Chennai,Pallavaram,Flat,2.0,Furnish,Old Property,Dec 2021,82.0,1122.0,7308.0
+Chennai,Old Mahabalipuram Road,Flat,2.0,Unfurnish,Old Property,Dec 2021,53.0,950.0,5578.95
+Chennai,Mahindra World City,Flat,2.0,Unfurnish,Old Property,Dec 2021,34.0,610.0,5573.77
+Chennai,Oragadam Sriperumbudur,Flat,3.0,Furnish,New Property,Dec 2021,55.0,1150.0,4782.0
+Chennai,Padapai,Flat,1.0,Furnish,Old Property,Dec 2021,31.0,748.0,4144.0
+Chennai,Santhosapuram Medavakkam,Flat,3.0,Unfurnish,Old Property,Dec 2021,80.0,1300.0,6154.0
+Chennai,Thalambur,Flat,3.0,Furnish,Old Property,Dec 2021,85.0,1500.0,5666.67
+Chennai,Medavakkam,Flat,2.0,Unfurnish,Old Property,Dec 2021,42.0,848.0,4953.0
+Chennai,Lingam Nagar,Flat,3.0,Unfurnish,Old Property,Dec 2021,53.0,1310.0,4045.8
+Chennai,Guru Swamy Nagar Pulianthope,Flat,2.0,Furnish,Old Property,Dec 2021,38.0,738.0,5149.05
+Chennai,Thanikachalam Nagar Ponniammanmedu,Flat,1.0,Furnish,Old Property,Dec 2021,31.0,450.0,6888.89
+Chennai,T Nagar,Flat,2.0,Unfurnish,Old Property,Dec 2021,59.0,650.0,9076.92
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,3.0,Furnish,Old Property,Dec 2021,42.0,850.0,4941.18
+Chennai,Koyambedu,Flat,3.0,Unfurnish,New Property,Jan 2022,120.0,1320.0,9090.0
+Chennai,inPudupakkam,Villa,3.0,Unfurnish,New Property,Dec 2021,95.0,1727.0,5500.0
+Chennai,inVengaivasal Medavakkam,Villa,2.0,Unfurnish,New Property,Dec 2021,113.99999999999999,1020.0,11176.47
+Chennai,inSholinganallur,Villa,2.0,Unfurnish,New Property,Dec 2021,140.0,1050.0,13333.33
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,2.0,Unfurnish,New Property,Mar 2022,79.5,1270.0,6259.0
+Chennai,inPerumbakkam,Villa,4.0,Unfurnish,New Property,Dec 2022,120.0,1884.0,6369.0
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,4.0,Unfurnish,New Property,Dec 2021,114.99999999999999,1866.0,6162.0
+Chennai,inPorur,Villa,3.0,Unfurnish,New Property,Dec 2021,90.5,1508.0,5999.0
+Chennai,inTambaram East,Villa,3.0,Unfurnish,New Property,Mar 2022,55.0,1200.0,4583.33
+Chennai,inIndrapriyadarshini Nagar,Villa,2.0,Furnish,New Property,Dec 2021,50.1,355.0,14112.68
+Chennai,inGerugambakkam Chennai Bypass Road,Villa,3.0,Furnish,Old Property,Dec 2021,55.0,1250.0,4400.0
+Chennai,inChettipunyam,Villa,3.0,Furnish,Old Property,Dec 2021,55.0,1074.0,5121.04
+Chennai,inMambakkam,Villa,2.0,Unfurnish,New Property,Sep 2022,75.0,1100.0,6818.18
+Chennai,inVeppampattu Chennai Tiruttani Highway,Villa,2.0,Unfurnish,New Property,Jan 2022,34.0,1200.0,2833.33
+Chennai,inVengaivasal Medavakkam,Villa,2.0,Unfurnish,New Property,Feb 2022,113.99999999999999,1010.0,11287.13
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3.0,Unfurnish,New Property,Dec 2021,96.0,1333.0,7201.8
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,4.0,Unfurnish,New Property,Dec 2021,139.0,1896.0,7013.0
+Chennai,inKanathur,Villa,3.0,Furnish,Old Property,Dec 2021,112.99999999999999,1767.0,6395.0
+Chennai,inSiruseri,Villa,3.0,Unfurnish,New Property,Dec 2021,75.0,1545.0,4854.0
+Chennai,inKovur,Villa,5.0,Unfurnish,New Property,Dec 2021,120.0,1813.0,6618.86
+Chennai,inCBI Colony,Villa,3.0,Unfurnish,New Property,Jan 2022,114.99999999999999,2000.0,5750.0
+Chennai,inUrapakkam Vandalur R F GST Road,Villa,2.0,Unfurnish,New Property,Dec 2021,31.0,757.0,4095.11
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3.0,Unfurnish,New Property,Dec 2021,79.9,1376.0,5806.0
+Chennai,inThirumudivakkam,Villa,3.0,Unfurnish,New Property,Feb 2022,75.0,890.0,8426.97
+Chennai,inPadapai,Villa,2.0,Unfurnish,New Property,Mar 2022,37.5,800.0,4687.0
+Chennai,inVettuvankeni,Villa,3.0,Unfurnish,New Property,Dec 2021,149.0,1678.0,8879.62
+Chennai,inAgaramthen,Villa,3.0,Unfurnish,New Property,Dec 2021,70.0,1061.0,6597.55
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3.0,Unfurnish,New Property,Dec 2021,86.0,1376.0,6250.0
+Chennai,inPonneri,Villa,2.0,Unfurnish,Old Property,Dec 2021,29.0,766.0,3785.9
+Chennai,inNavalur,Villa,2.0,Unfurnish,New Property,Feb 2022,60.0,1050.0,5714.0
+Chennai,inTambaram East,Villa,3.0,Unfurnish,New Property,Oct 2022,102.0,705.0,14468.09
+Chennai,inChromepet GST Road,Villa,3.0,Unfurnish,New Property,Jan 2022,82.7,1110.0,7445.0
+Chennai,inSanthosapuram Medavakkam,Villa,3.0,Unfurnish,New Property,Feb 2022,99.0,1570.0,6305.0
+Chennai,inGerugambakkam Chennai Bypass Road,Villa,3.0,Unfurnish,Old Property,Aug 2022,70.0,1300.0,5384.62
+Chennai,inAyappakkam,Villa,2.0,Unfurnish,New Property,Jan 2022,59.0,1075.0,5488.0
+Chennai,inAvadi,Villa,2.0,Unfurnish,New Property,Jan 2022,31.0,750.0,4133.0
+Chennai,inMaraimalai Nagar,Villa,2.0,Unfurnish,Old Property,Dec 2021,50.0,900.0,5555.56
+Chennai,inEast Coast Road,Villa,2.0,Unfurnish,Old Property,Dec 2021,30.0,891.0,3367.0
+Chennai,inKovalam,Villa,3.0,Furnish,Old Property,Dec 2021,90.0,1100.0,8181.82
+Chennai,inThirumazhisai,Villa,3.0,Unfurnish,Old Property,Dec 2021,48.0,650.0,7384.62
+Chennai,inMangadu,Villa,3.0,Unfurnish,Old Property,Dec 2021,95.0,1720.0,4203.0
+Chennai,inKovalam,Villa,3.0,Furnish,New Property,Dec 2021,97.7,2327.0,4198.54
+Chennai,inPadapai,Villa,2.0,Unfurnish,Old Property,Dec 2021,32.0,1200.0,2667.0
+Chennai,inMambakkam,Villa,2.0,Unfurnish,Old Property,Nov 2022,46.8,700.0,6685.71
+Chennai,inG S T Road,Villa,3.0,Unfurnish,Old Property,Dec 2021,58.0,1400.0,4143.0
+Chennai,inNavalur,Villa,3.0,Unfurnish,Old Property,Dec 2021,95.0,917.0,10359.87
+Chennai,inKolapakkam,Villa,1.0,Unfurnish,Old Property,Dec 2021,80.0,630.0,12698.41
+Chennai,inVanagaram,Villa,3.0,Furnish,New Property,Dec 2021,99.9,1700.0,5876.0
+Chennai,inKondavakkam,Villa,3.0,Unfurnish,Old Property,Dec 2021,65.0,2300.0,2826.0
+Chennai,inNandivaram Guduvancheri,Villa,3.0,Unfurnish,Old Property,Dec 2021,67.0,2050.0,3268.0
+Chennai,inMaraimalai Nagar,Villa,3.0,Furnish,Old Property,Dec 2021,58.0,1430.0,4055.0
+Chennai,inThaiyur,Villa,3.0,Unfurnish,Old Property,Dec 2021,28.5,1000.0,2850.0
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3.0,Unfurnish,New Property,Dec 2021,86.0,1127.0,7630.88
+Chennai,inTambaram West Tambaram Chennai Bypass Road,Villa,2.0,Unfurnish,New Property,Dec 2021,72.0,1250.0,5760.0
+Chennai,inEast Coast Road,Villa,3.0,Furnish,Old Property,Dec 2021,95.0,1800.0,5277.0
+Chennai,inVeppampattu Chennai Tiruttani Highway,Villa,2.0,Furnish,New Property,Dec 2021,29.0,850.0,3411.76
+Chennai,inVijayalakshmi Nagar Porur,Villa,3.0,Furnish,New Property,Mar 2022,75.0,840.0,8928.57
+Chennai,inTiruvallur,Villa,2.0,Unfurnish,Old Property,Dec 2021,29.0,800.0,3625.0
+Chennai,inThazhambur,Villa,3.0,Unfurnish,New Property,Dec 2021,82.0,1316.0,6231.0
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,2.0,Unfurnish,Old Property,Aug 2022,52.0,850.0,6117.65
+Chennai,inPerungalathur Chennai Bypass Road,Villa,2.0,Unfurnish,Old Property,Feb 2022,58.9,800.0,7362.5
+Chennai,inParuthipet,Villa,2.0,Unfurnish,New Property,Feb 2022,37.0,650.0,5692.31
+Chennai,inRedhills,Villa,2.0,Unfurnish,Old Property,Feb 2022,33.0,600.0,5500.0
+Chennai,inSelaiyur,Villa,3.0,Unfurnish,New Property,Dec 2021,87.0,1600.0,5438.0
+Chennai,inMahabalipuram,Villa,3.0,Furnish,New Property,Dec 2021,55.0,750.0,7333.0
+Chennai,inNandivaram Guduvancheri,Villa,3.0,Unfurnish,New Property,Dec 2021,65.0,1400.0,4642.86
+Chennai,inPudupakkam,Villa,3.0,Unfurnish,New Property,Dec 2021,91.3,1973.0,4627.47
+Chennai,inPadapai,Villa,2.0,Unfurnish,New Property,Dec 2021,40.3,1090.0,3700.0
+Chennai,inGuduvancheri,Villa,2.0,Unfurnish,New Property,Dec 2021,40.9,870.0,4699.0
+Chennai,inPoonamalle,Villa,1.0,Unfurnish,New Property,Jun 2022,30.0,560.0,5357.0
+Chennai,inKolapakkam Vandalur Kelambakkam Road,Villa,4.0,Furnish,Old Property,Dec 2021,89.0,1668.0,5335.73
+Chennai,inKundrathur Pallavaram Kundrathur Main Road,Villa,3.0,Furnish,Old Property,Dec 2021,125.0,1430.0,8741.26
+Chennai,inKovur,Villa,2.0,Furnish,Old Property,Dec 2021,60.0,1100.0,5454.55
+Chennai,inSelaiyur,Villa,3.0,Furnish,Old Property,Dec 2021,105.0,1870.0,5614.97
+Chennai,inalliance huming gardens,Villa,2.0,Furnish,Old Property,Dec 2021,65.0,550.0,11818.18
+Chennai,inGuduvancheri,Villa,3.0,Furnish,Old Property,Dec 2021,70.0,2100.0,3333.33
+Chennai,inGuduvancheri,Villa,2.0,Unfurnish,Old Property,Dec 2021,54.0,1250.0,4320.0
+Chennai,inVandalur Kelambakkam Road,Villa,3.0,Unfurnish,New Property,Apr 2022,40.0,1200.0,3333.33
+Chennai,inSemmancheri,Villa,3.0,Unfurnish,New Property,Dec 2021,130.0,1500.0,8666.67
+Chennai,inMambakkam,Villa,2.0,Unfurnish,New Property,Dec 2021,64.5,1200.0,5375.0
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3.0,Unfurnish,Old Property,Dec 2021,74.0,1588.0,4660.0
+Chennai,inMahindra World City,Villa,3.0,Furnish,Old Property,Dec 2021,85.0,2000.0,4250.0
+Chennai,inVanagaram,Villa,2.0,Unfurnish,Old Property,Jan 2022,65.0,730.0,8904.11
+Chennai,inSriperumbudur,Villa,1.0,Unfurnish,Old Property,Dec 2021,17.5,600.0,2916.67
+Chennai,inMahindra World City,Villa,3.0,Unfurnish,Old Property,Dec 2021,55.0,1470.0,3741.5
+Chennai,inKattankulathur GST Road,Villa,2.0,Unfurnish,New Property,Feb 2022,24.9,550.0,4527.27
+Chennai,inMahindra World City,Villa,3.0,Unfurnish,Old Property,Dec 2021,52.0,1350.0,3851.85
+Chennai,inKattupakkam PH Road,Villa,3.0,Furnish,Old Property,Dec 2021,120.0,1950.0,6153.0
+Chennai,inGerugambakkam Chennai Bypass Road,Villa,3.0,Furnish,New Property,Dec 2021,105.0,1250.0,8400.0
+Chennai,inMangadu,Villa,2.0,Unfurnish,New Property,Dec 2021,53.0,800.0,6625.0
+Chennai,inThalambur,Villa,4.0,Furnish,Old Property,Dec 2021,114.99999999999999,2000.0,5750.0
+Chennai,inKayarambedu,Villa,2.0,Unfurnish,Old Property,Dec 2021,42.0,1250.0,3360.0
+Chennai,inIyyappanthangal,Villa,4.0,Furnish,New Property,Dec 2021,130.0,1000.0,13000.0
+Chennai,inEast Coast Road,Villa,2.0,Unfurnish,Old Property,Dec 2021,30.0,891.0,3367.0
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3.0,Unfurnish,Old Property,Dec 2021,70.0,2000.0,3500.0
+Chennai,inRedhills,Villa,3.0,Unfurnish,New Property,Dec 2021,32.0,1000.0,3200.0
+Chennai,inRevathipuram,Villa,2.0,Furnish,New Property,Dec 2021,43.2,150.0,28800.0
+Mumbai,Barcelona in Mira Road East,Flat,2.0,Unfurnish,New Property,Jun 2025,105.0,506.0,20750.99
+Mumbai,Vasanthi in Mulund East,Flat,2.0,Unfurnish,New Property,Jun 2022,149.0,547.0,27239.49
+Mumbai,Towers and Plaza in Chandivali,Flat,1.0,Unfurnish,New Property,Jun 2026,100.0,366.0,27322.4
+Mumbai,Revanta in Mulund West,Flat,2.0,Unfurnish,New Property,Mar 2026,151.0,585.0,25811.97
+Mumbai,Satyam in Malad East,Flat,1.0,Unfurnish,New Property,Dec 2024,100.0,412.0,24271.84
+Mumbai,Midtown in Chembur,Flat,2.0,Unfurnish,New Property,Dec 2025,131.0,554.0,23646.21
+Mumbai,Bliss in Kurla West,Flat,2.0,Unfurnish,New Property,Mar 2024,158.0,559.0,28264.76
+Mumbai,Revanta in Mulund West,Flat,2.0,Unfurnish,New Property,Sep 2026,112.99999999999999,572.0,19755.24
+Mumbai,Dwarka in Ghatkopar East,Flat,1.0,Unfurnish,New Property,Jun 2024,118.0,400.0,29500.0
+Mumbai,Miracle Bay in Mahim West,Flat,1.0,Furnish,New Property,Dec 2027,145.0,365.0,39726.03
+Mumbai,in Borivali East,Flat,2.0,Unfurnish,New Property,Dec 2022,166.0,620.0,26774.19
+Mumbai,Hills in Dahisar East,Flat,2.0,Unfurnish,New Property,Dec 2026,129.0,623.0,20706.26
+Mumbai,Heritage in Crawford Market,Flat,1.0,Unfurnish,New Property,Apr 2024,140.0,388.0,36082.47
+Mumbai,Barcelona in Mira Road East,Flat,1.0,Unfurnish,New Property,Jun 2025,68.0,330.0,20606.06
+Mumbai,in Bhandup East,Flat,1.0,Unfurnish,New Property,Mar 2024,75.0,361.0,20775.62
+Mumbai,Crest in Malad West,Flat,1.0,Unfurnish,New Property,Dec 2022,87.0,377.0,23076.92
+Mumbai,Elitus in Mulund West,Flat,2.0,Unfurnish,New Property,Mar 2026,180.0,802.0,22443.89
+Mumbai,Avenue in Vikhroli East,Flat,1.0,Unfurnish,New Property,Dec 2023,67.5,386.0,17487.05
+Mumbai,Sanctuary in Mulund West,Flat,2.0,Furnish,New Property,Jun 2024,148.0,690.0,21449.28
+Mumbai,Pinnacle in Mulund West,Flat,2.0,Unfurnish,New Property,Jun 2026,130.0,606.0,21452.15
+Mumbai,in Mira Road,Flat,1.0,Unfurnish,New Property,Apr 2022,67.4,458.0,14716.16
+Mumbai,in Mira Road,Flat,2.0,Unfurnish,New Property,Dec 2023,86.0,711.0,12095.64
+Mumbai,Samarpan in Kandivali West,Flat,2.0,Unfurnish,New Property,Jun 2022,164.0,643.0,25505.44
+Mumbai,Residency in Kurla East,Flat,2.0,Unfurnish,New Property,Mar 2022,126.0,563.0,22380.11
+Mumbai,in Andheri West,Flat,1.0,Unfurnish,New Property,Feb 2024,138.0,426.0,32394.37
+Mumbai,Earth in Kanjurmarg East,Flat,1.0,Unfurnish,New Property,Dec 2021,121.0,466.0,25965.67
+Mumbai,House in Goregaon East,Flat,2.0,Unfurnish,New Property,Jun 2023,136.0,593.0,22934.23
+Mumbai,Virar in Virar,Flat,1.0,Unfurnish,New Property,Dec 2021,33.9,399.0,8496.24
+Mumbai,Aarna in Chembur,Flat,1.0,Furnish,New Property,Dec 2022,105.0,383.0,27415.14
+Mumbai,Tower in Vasai East,Flat,1.0,Unfurnish,New Property,Dec 2025,31.5,358.0,8798.88
+Mumbai,Arya in Ghatkopar West,Flat,1.0,Unfurnish,New Property,Mar 2022,108.0,443.0,24379.23
+Mumbai,Baria Everest in Virar West,Flat,1.0,Unfurnish,New Property,Dec 2021,40.0,451.0,8869.0
+Mumbai,Gardens in Bhandup West,Flat,1.0,Unfurnish,New Property,Dec 2021,99.0,498.0,19879.52
+Mumbai,The Park in Worli,Flat,2.0,Unfurnish,New Property,Dec 2021,1.2,890.0,134.83
+Mumbai,Heritage 2 in Jogeshwari East,Flat,2.0,Unfurnish,New Property,Dec 2022,143.0,598.0,23913.04
+Mumbai,Woods in Kandivali East,Flat,2.0,Unfurnish,New Property,Dec 2025,169.0,719.0,23504.87
+Mumbai,Amara in Kurla East,Flat,3.0,Unfurnish,New Property,Jul 2023,195.0,750.0,26000.0
+Mumbai,in Kandivali East,Flat,1.0,Furnish,New Property,Jun 2024,95.0,400.0,23750.0
+Mumbai,Senterio in Tilak Nagar Harbour Line,Flat,1.0,Furnish,New Property,Oct 2022,114.99999999999999,440.0,26136.36
+Mumbai,Limited Edition in Mulund East,Flat,2.0,Unfurnish,New Property,Oct 2024,177.0,750.0,23600.0
+Mumbai,Montana in Mulund West,Flat,2.0,Unfurnish,New Property,Dec 2025,161.0,574.0,28048.78
+Mumbai,Pinnacle in Mulund West,Flat,2.0,Furnish,New Property,Dec 2024,132.0,612.0,21568.63
+Mumbai,Millennia in Parel,Flat,1.0,Furnish,New Property,Dec 2024,139.0,411.0,33819.95
+Mumbai,Revanta in Mulund West,Flat,2.0,Unfurnish,New Property,Dec 2024,145.0,625.0,23200.0
+Mumbai,Woods in Kandivali East,Flat,2.0,Furnish,New Property,Dec 2023,170.0,719.0,23643.95
+Mumbai,Millennia in Parel,Flat,1.0,Unfurnish,New Property,Dec 2025,111.00000000000001,410.0,27073.17
+Mumbai,Neo Park in Bhandup West,Flat,1.0,Unfurnish,New Property,Dec 2025,48.0,285.0,16842.11
+Mumbai,Vishnu Phase I in Dahisar East,Flat,1.0,Unfurnish,New Property,Jun 2023,65.1,394.0,16522.84
+Mumbai,Residency Phase 1 in Jogeshwari East,Flat,1.0,Unfurnish,New Property,Dec 2024,82.0,435.0,18850.57
+Mumbai,O2 in Mulund West,Flat,3.0,Unfurnish,New Property,Dec 2024,184.0,771.0,23865.11
+Mumbai,Pinnacle in Mulund West,Flat,1.0,Unfurnish,New Property,Dec 2024,99.0,457.0,21663.02
+Mumbai,in Andheri East,Flat,2.0,Unfurnish,New Property,Mar 2024,190.0,858.0,22144.52
+Mumbai,53 West in Andheri West,Flat,1.0,Unfurnish,New Property,Dec 2025,139.0,455.0,30549.45
+Mumbai,Stone in Vikhroli East,Flat,1.0,Unfurnish,New Property,Dec 2023,75.2,393.0,19134.86
+Mumbai,IC Colony,Flat,2.0,Furnish,New Property,Dec 2024,160.0,700.0,22857.14
+Mumbai,Society in Mulund West,Flat,2.0,Furnish,Old Property,Dec 2021,155.0,700.0,22142.86
+Mumbai,North in Mira Road East,Flat,1.0,Unfurnish,New Property,Dec 2021,65.0,450.0,14444.44
+Mumbai,Florenza in Pleasant Park,Flat,1.0,Furnish,New Property,Dec 2021,68.3,442.0,15452.49
+Mumbai,Vihar in Powai,Flat,2.0,Unfurnish,Old Property,Dec 2021,160.0,640.0,25000.0
+Mumbai,Premier in Mira Road East,Flat,2.0,Furnish,New Property,Dec 2021,78.0,680.0,11470.59
+Mumbai,in Vinay Nagar,Flat,2.0,Furnish,New Property,Apr 2022,83.5,575.0,14521.74
+Mumbai,Hot Cake in Vinay Nagar,Flat,1.0,Unfurnish,New Property,Dec 2022,53.5,405.0,13209.88
+Mumbai,Diamond Hill in Chandan Shanti,Flat,2.0,Furnish,New Property,Jun 2022,84.6,620.0,13645.16
+Mumbai,Highpark in Kashimira,Flat,1.0,Furnish,New Property,Dec 2023,67.0,492.0,13617.89
+Mumbai,Mulund East,Flat,2.0,Unfurnish,Old Property,Dec 2021,160.0,700.0,22857.14
+Mumbai,Hillcrest in Mira Road East,Flat,2.0,Furnish,New Property,Dec 2021,76.0,650.0,11692.31
+Mumbai,Mira Bhayandar,Flat,2.0,Unfurnish,New Property,Dec 2021,88.0,615.0,14308.94
+Mumbai,Ecocity in Mira Road,Flat,2.0,Unfurnish,New Property,Dec 2022,98.0,685.0,14306.57
+Mumbai,Heights in Beverly Park,Flat,3.0,Unfurnish,New Property,Dec 2021,99.0,947.0,10454.07
+Mumbai,Forests in Kanjurmarg West,Flat,2.0,Furnish,New Property,Dec 2021,160.0,661.0,24205.75
+Mumbai,Mulund East,Flat,1.0,Furnish,Old Property,Dec 2021,114.99999999999999,480.0,23958.33
+Mumbai,Isle in Central Area,Flat,2.0,Unfurnish,Old Property,Dec 2021,192.0,635.0,30236.22
+Mumbai,Powai,Flat,2.0,Furnish,Old Property,Dec 2021,155.0,750.0,20666.67
+Mumbai,Borivali West,Flat,1.0,Unfurnish,Old Property,Dec 2021,95.0,400.0,23750.0
+Mumbai,Thane Kalyan Dombivli,Flat,2.0,Unfurnish,Old Property,Dec 2021,59.0,650.0,9076.92
+Mumbai,Evening Glory in Chandivali,Flat,1.0,Furnish,Old Property,Dec 2021,105.0,385.0,27272.73
+Mumbai,Shashwat in Mira Bhayandar,Flat,1.0,Unfurnish,New Property,Dec 2021,65.0,450.0,14444.44
+Mumbai,Ariso Apartment in Chembur,Flat,2.0,Unfurnish,New Property,Dec 2023,185.0,712.0,25983.15
+Mumbai,Lokhandwala Complex,Flat,1.0,Unfurnish,Old Property,Dec 2021,128.0,450.0,28444.44
+Mumbai,in Ketki Pada,Flat,2.0,Furnish,New Property,Dec 2023,95.0,537.0,17690.88
+Mumbai,Now Or Never in Vinay Nagar,Flat,1.0,Unfurnish,New Property,Jun 2023,47.0,302.0,15562.91
+Mumbai,Vinay Nagar,Flat,1.0,Unfurnish,New Property,Dec 2023,55.0,360.0,15277.78
+Mumbai,North Alexa in Mira Road,Flat,1.0,Furnish,New Property,Dec 2022,56.0,476.0,11764.71
+Mumbai,Hot Cake in Vinay Nagar,Flat,1.0,Furnish,New Property,Dec 2022,54.0,405.0,13333.33
+Mumbai,Oasis in Kashimira,Flat,1.0,Furnish,New Property,Dec 2025,58.0,540.0,10740.74
+Mumbai,Diamond Hill in Beverly Park,Flat,1.0,Furnish,New Property,Mar 2023,55.2,440.0,12545.45
+Mumbai,Florenza in Beverly Park,Flat,2.0,Furnish,New Property,Dec 2022,98.9,669.0,14783.26
+Mumbai,Tilak Nagar Harbour Line,Flat,2.0,Unfurnish,New Property,Dec 2023,152.0,622.0,24437.3
+Mumbai,Pinnacle in Mulund West,Flat,1.0,Unfurnish,New Property,Dec 2026,99.0,457.0,21663.0
+Mumbai,Gardenia in Naigaon East,Flat,2.0,Furnish,Old Property,Dec 2021,43.7,700.0,6242.86
+Mumbai,Akshay in Mira Road East,Flat,2.0,Unfurnish,New Property,Jun 2023,79.1,650.0,12169.23
+Mumbai,ORO 67 in Ekta Nagar Charkop,Flat,1.0,Unfurnish,New Property,Apr 2024,88.0,417.0,21103.12
+Mumbai,Legacy in Ramdev Park,Flat,1.0,Unfurnish,New Property,Jun 2023,57.5,470.0,12234.04
+Mumbai,Residency in Vinay Nagar,Flat,1.0,Unfurnish,New Property,Dec 2024,63.0,531.0,11864.41
+Mumbai,Pant Nagar,Flat,2.0,Unfurnish,New Property,Dec 2022,167.0,650.0,25692.31
+Mumbai,North in Mira Road,Flat,2.0,Unfurnish,New Property,Dec 2023,87.0,640.0,13593.75
+Mumbai,Highpark in Mira Road,Flat,1.0,Unfurnish,New Property,Dec 2023,65.0,405.0,16049.38
+Mumbai,in Vinay Nagar,Flat,2.0,Furnish,New Property,Mar 2022,78.0,535.0,14579.44
+Mumbai,Samarpan in Magathane,Flat,2.0,Unfurnish,Old Property,Dec 2021,165.0,730.0,22602.74
+Mumbai,Suburbia in Chembur,Flat,2.0,Unfurnish,New Property,Dec 2023,187.0,706.0,26487.25
+Mumbai,at Runwal Forest in Kanjurmarg,Flat,2.0,Unfurnish,New Property,Jun 2024,139.0,590.0,23559.32
+Mumbai,Legacy in Ramdev Park,Flat,1.0,Unfurnish,New Property,Jun 2022,57.0,400.0,14250.0
+Mumbai,Ivana in Vinay Nagar,Flat,1.0,Unfurnish,New Property,Dec 2023,59.9,380.0,15763.16
+Mumbai,Virar West,Flat,1.0,Unfurnish,New Property,Dec 2022,38.0,422.0,9004.74
+Mumbai,Bhayandar East,Flat,1.0,Unfurnish,New Property,Dec 2022,63.0,420.0,15000.0
+Mumbai,Pooja in Mira Road East,Flat,1.0,Furnish,New Property,Mar 2022,60.0,411.0,14598.54
+Mumbai,Ivana in Vinay Nagar,Flat,1.0,Furnish,New Property,Dec 2023,60.0,450.0,13333.33
+Mumbai,Bliss in Crompton Greaves,Flat,2.0,Unfurnish,New Property,Aug 2022,185.0,809.0,22867.74
+Mumbai,Oasis in Vinay Nagar,Flat,2.0,Furnish,New Property,Sep 2022,80.0,658.0,12158.05
+Mumbai,Revanta in Mulund West,Flat,2.0,Unfurnish,Old Property,Dec 2025,135.0,608.0,22203.95
+Mumbai,Greenfinity in Bhakti Park,Flat,2.0,Furnish,New Property,Dec 2022,136.0,473.0,28752.64
+Mumbai,Greens in Queens Park,Flat,2.0,Furnish,New Property,Dec 2025,98.6,813.0,12127.92
+Mumbai,in Goregaon East,Flat,2.0,Unfurnish,New Property,Dec 2023,177.0,757.0,23381.77
+Mumbai,Heights in Vasai East,Flat,1.0,Unfurnish,New Property,Dec 2022,35.0,446.0,7847.53
+Mumbai,Park Estate in Yeshwant Nagar,Flat,2.0,Unfurnish,New Property,Jun 2024,146.0,605.0,24132.23
+Mumbai,Ramdev Ritu Heights in Mira Road East,Flat,2.0,Furnish,New Property,Dec 2022,78.0,611.0,12765.96
+Mumbai,Bella in Bhandup West,Flat,1.0,Unfurnish,New Property,Dec 2023,108.0,425.0,25411.76
+Mumbai,Ecocity in Mira Road,Flat,1.0,Furnish,New Property,Dec 2022,57.0,455.0,12527.47
+Mumbai,Ecocity in Kashimira,Flat,1.0,Unfurnish,New Property,Dec 2022,67.0,448.0,14955.36
+Mumbai,Eastern Bay in Wadala East,Flat,2.0,Unfurnish,New Property,Mar 2024,170.0,686.0,24781.34
+Mumbai,Riviera in Hiranandani Gardens,Flat,2.0,Unfurnish,New Property,Dec 2022,175.0,705.0,24822.7
+Mumbai,Heights in Mulund East,Flat,2.0,Furnish,Old Property,Dec 2021,160.0,610.0,26229.51
+Mumbai,Chembur East,Flat,1.0,Unfurnish,New Property,Dec 2025,94.0,385.0,24415.58
+Mumbai,Siddhi in Mira Road,Flat,2.0,Unfurnish,New Property,Jun 2023,76.0,594.0,12794.61
+Mumbai,Mahatama Gandhi Road,Flat,1.0,Unfurnish,New Property,Dec 2021,92.0,440.0,20909.09
+Mumbai,Exotica in Mira Road,Flat,1.0,Unfurnish,New Property,Dec 2023,59.0,547.0,10786.11
+Mumbai,Living in Rawal Pada,Flat,2.0,Furnish,New Property,Mar 2025,83.0,582.0,14261.17
+Mumbai,Vinay Nagar,Flat,1.0,Unfurnish,New Property,Mar 2023,54.9,390.0,14076.92
+Mumbai,Highpark in Mahajan Wadi,Flat,2.0,Unfurnish,New Property,Dec 2024,87.5,605.0,14462.81
+Mumbai,North Euphoria in Vinay Nagar,Flat,3.0,Unfurnish,New Property,Dec 2022,125.0,950.0,13157.89
+Mumbai,Arya in Ghatkopar West,Flat,1.0,Unfurnish,New Property,Mar 2022,103.0,443.0,23250.56
+Mumbai,Hot Cake in Mira Road,Flat,1.0,Unfurnish,New Property,Mar 2023,59.0,400.0,14750.0
+Mumbai,Tara in Kandivali West,Flat,3.0,Unfurnish,New Property,Dec 2023,185.0,835.0,22155.69
+Mumbai,Basant Park,Flat,2.0,Furnish,New Property,Dec 2023,160.0,573.0,27923.21
+Mumbai,Heights Annex in Vasai East,Flat,1.0,Unfurnish,New Property,Jun 2024,36.5,444.0,8220.72
+Mumbai,Highpark in Mira Road East,Flat,1.0,Unfurnish,New Property,Dec 2023,61.0,405.0,15061.73
+Mumbai,Morya in Chembur,Flat,1.0,Unfurnish,New Property,Jun 2023,137.0,477.0,28721.17
+Mumbai,Barcelona in Mira Road East,Flat,2.0,Furnish,New Property,Dec 2022,99.8,656.0,15213.41
+Mumbai,Gardenia in Mira Road,Flat,2.0,Furnish,New Property,Dec 2021,93.0,690.0,13478.26
+Mumbai,XL in Dhanukar Wadi,Flat,2.0,Unfurnish,New Property,Dec 2025,127.0,820.0,15487.8
+Mumbai,Nova in Bhoiwada,Flat,1.0,Unfurnish,New Property,Jun 2022,114.99999999999999,374.0,30748.66
+Mumbai,Zen World in Kanjurmarg East,Flat,2.0,Furnish,New Property,Nov 2022,154.0,750.0,20533.33
+Mumbai,360 in Mulund West,Flat,2.0,Unfurnish,New Property,Jun 2025,171.0,750.0,22800.0
+Mumbai,Residency in Kurla East,Flat,1.0,Furnish,Old Property,Dec 2021,95.0,466.0,20386.27
+Mumbai,Vakola,Flat,2.0,Unfurnish,Old Property,Dec 2021,165.0,620.0,26612.9
+Mumbai,Revanta in Mulund West,Flat,2.0,Unfurnish,New Property,Dec 2025,130.0,617.0,21069.69
+Mumbai,Highpark in Mahajan Wadi,Flat,1.0,Unfurnish,New Property,Dec 2023,60.0,425.0,14117.65
+Mumbai,at Runwal Forests in Kanjurmarg West,Flat,2.0,Furnish,New Property,Apr 2023,106.0,465.0,22795.7
+Mumbai,Codename Open Streets in Vinay Nagar,Flat,1.0,Furnish,New Property,Jun 2023,59.5,470.0,12659.57
+Mumbai,Woods in Kandivali East,Flat,2.0,Unfurnish,New Property,Dec 2023,174.0,719.0,24200.28
+Mumbai,Virar West,Flat,2.0,Furnish,New Property,Dec 2022,44.0,512.0,8593.75
+Mumbai,Ecocity in Mira Road East,Flat,1.0,Furnish,New Property,Dec 2022,69.0,522.0,13218.39
+Mumbai,Harmony in Matunga East,Flat,2.0,Unfurnish,New Property,Nov 2023,169.0,486.0,34773.66
+Mumbai,Park in Malad West,Flat,2.0,Furnish,New Property,Dec 2024,149.0,644.0,23136.65
+Mumbai,Bliss in Kurla West,Flat,1.0,Unfurnish,New Property,Jan 2023,89.0,320.0,27812.5
+Mumbai,Aspire in Malad West,Flat,1.0,Unfurnish,Old Property,May 2022,100.0,442.0,22624.43
+Mumbai,Dwarka in Ghatkopar East,Flat,1.0,Unfurnish,New Property,Jun 2022,89.5,351.0,25498.58
+Mumbai,Lagoon in Jankalyan Nagar,Flat,2.0,Unfurnish,New Property,Dec 2025,161.0,700.0,23000.0
+Mumbai,Radha Complex in Bhandup West,Flat,2.0,Unfurnish,Old Property,Dec 2021,125.0,630.0,19841.27
+Mumbai,Sindhi Society Chembur,Flat,1.0,Furnish,New Property,Jun 2025,85.0,355.0,23943.66
+Mumbai,CHS in Kannamwar Nagar 2,Flat,1.0,Furnish,New Property,Jan 2023,65.0,390.0,16666.67
+Mumbai,Empress in Borivali West,Flat,1.0,Unfurnish,New Property,Dec 2022,89.0,417.0,21342.93
+Mumbai,Link Road,Flat,1.0,Unfurnish,New Property,May 2022,65.0,333.0,19519.52
+Mumbai,Bliss in Crompton Greaves,Flat,2.0,Unfurnish,New Property,Mar 2022,174.0,809.0,21508.03
+Mumbai,Bliss in Kanjurmarg East,Flat,2.0,Unfurnish,New Property,Mar 2022,159.0,687.0,23144.1
+Mumbai,Wadala East,Flat,1.0,Furnish,Old Property,Dec 2021,135.0,429.0,31468.53
+Mumbai,Chembur,Flat,1.0,Unfurnish,New Property,Dec 2021,114.99999999999999,608.0,18914.47
+Mumbai,Avenue in Kanjurmarg East,Flat,3.0,Furnish,New Property,Dec 2024,195.0,800.0,24375.0
+Mumbai,Kaatyayni Heights in Andheri East,Flat,1.0,Unfurnish,New Property,Mar 2022,126.0,412.0,30582.52
+Mumbai,Ghatkopar East,Flat,2.0,Unfurnish,New Property,Dec 2022,137.0,572.0,23951.05
+Mumbai,Kandivali West,Flat,2.0,Furnish,Old Property,Dec 2025,134.0,650.0,20615.38
+Mumbai,Revanta in Mulund West,Flat,2.0,Furnish,New Property,Sep 2025,147.0,619.0,23747.98
+Mumbai,Patil Breeze in Dahisar,Flat,1.0,Unfurnish,New Property,Dec 2024,95.0,440.0,21590.91
+Mumbai,Akshay in Pleasant Park,Flat,1.0,Furnish,New Property,Jun 2022,58.5,400.0,14625.0
+Mumbai,Ivana in Mira Road,Flat,1.0,Unfurnish,New Property,Jun 2023,65.0,740.0,8783.0
+Mumbai,Heights in Vasai East,Flat,1.0,Unfurnish,New Property,Apr 2023,36.5,464.0,7866.38
+Mumbai,Chandivali,Flat,1.0,Unfurnish,New Property,Dec 2025,114.99999999999999,450.0,25555.56
+Mumbai,Thakur Complex,Flat,2.0,Furnish,New Property,Nov 2022,118.0,615.0,19186.99
+Mumbai,Senterio in Shell Colony,Flat,1.0,Furnish,New Property,Jun 2022,110.00000000000001,440.0,25000.0
+Mumbai,Forests in Kanjurmarg West,Flat,1.0,Unfurnish,New Property,Jul 2022,105.0,433.0,24249.42
+Mumbai,Mulund West,Flat,1.0,Furnish,Old Property,Dec 2021,105.0,495.0,21212.12
+Mumbai,Shanti in Y K Nagar,Flat,1.0,Unfurnish,New Property,Sep 2024,39.0,490.0,7959.18
+Mumbai,Magathane,Flat,2.0,Unfurnish,Old Property,Dec 2021,155.0,650.0,23846.15
+Mumbai,Alcove in Chandivali,Flat,2.0,Unfurnish,New Property,Dec 2024,163.0,744.0,21908.6
+Mumbai,Now Or Never in Vinay Nagar,Flat,1.0,Unfurnish,New Property,Dec 2022,47.0,360.0,13055.56
+Mumbai,53 West in Andheri West,Flat,1.0,Unfurnish,New Property,Dec 2025,136.0,420.0,32380.95
+Mumbai,inChikhal Dongari,Villa,4.0,Furnish,New Property,May 2022,85.0,1700.0,5000.0
+Mumbai,inBoisar West,Villa,3.0,Furnish,Old Property,Dec 2021,105.0,1100.0,9545.45
+Mumbai,inVasai West,Villa,4.0,Furnish,Old Property,Dec 2021,198.0,1681.0,11778.7
+Mumbai,inGorai,Villa,2.0,Furnish,Old Property,Dec 2021,125.0,1200.0,10416.67
+Mumbai,inCharkop Sector 6,Villa,3.0,Unfurnish,Old Property,Dec 2021,190.0,1800.0,10555.56
+Mumbai,inMaharashtra Nagar,Villa,5.0,Unfurnish,New Property,Dec 2021,175.0,1500.0,11666.67
+Mumbai,inGorai 1,Villa,2.0,Furnish,Old Property,Dec 2021,195.0,700.0,27857.14
+Mumbai,inVasai East,Villa,3.0,Furnish,Old Property,Dec 2021,107.0,985.0,10862.94
+Mumbai,inCharkop Sector 2,Villa,2.0,Furnish,Old Property,Dec 2021,72.0,500.0,14400.0
+Mumbai,inNalasopara West,Villa,3.0,Unfurnish,New Property,Dec 2021,70.0,1500.0,4666.67
+Mumbai,invillas,Villa,2.0,Furnish,Old Property,Dec 2021,65.0,810.0,8024.69
+Mumbai,inGoregaon East,Villa,2.0,Furnish,Old Property,Dec 2021,135.0,710.0,19014.08
+Mumbai,inNaigaon East,Villa,1.0,Unfurnish,Old Property,Dec 2021,50.0,1134.0,4409.17
+Mumbai,inM B Tower Virar West,Villa,3.0,Furnish,New Property,Dec 2021,80.0,1400.0,5714.29
+Mumbai,inMarol Maroshi,Villa,1.0,Furnish,Old Property,Dec 2021,43.0,350.0,12285.71
+Mumbai,inOrange City,Villa,3.0,Furnish,Old Property,Dec 2021,62.0,1500.0,4133.33
+Mumbai,inUlhasnagar,Villa,3.0,Unfurnish,Old Property,Dec 2021,100.0,1400.0,7142.86
+Mumbai,inCharkop Anusaya Kandivali West,Villa,1.0,Furnish,New Property,Dec 2021,67.0,900.0,7444.44
+Mumbai,inGorai 1,Villa,1.0,Unfurnish,Old Property,Dec 2021,61.5,300.0,20500.0
+Mumbai,inBoisar West,Villa,2.0,Unfurnish,New Property,Jan 2023,68.0,1455.0,4673.54
+Mumbai,inVile Parle East,Villa,1.0,Unfurnish,Old Property,Dec 2021,55.0,350.0,15714.0
+Mumbai,inBolinj,Villa,4.0,Furnish,Old Property,Dec 2021,145.0,2500.0,5800.0
+Mumbai,inPushpa Park,Villa,1.0,Unfurnish,Old Property,Dec 2021,36.0,200.0,18000.0
+Mumbai,inMadh Village,Villa,5.0,Unfurnish,Old Property,Dec 2021,50.0,1080.0,4630.0
+Mumbai,inKurar Village,Villa,1.0,Unfurnish,Old Property,Dec 2021,22.0,235.0,9362.0

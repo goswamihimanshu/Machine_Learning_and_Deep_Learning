@@ -1,0 +1,825 @@
+Location,Area,Type,BHK,Sqft,Furnish,Transaction,Status,PriceperSqrt,Price
+Chennai,Perambur,Flat,2 BHK,1100 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 8182 per sqft,₹ 90 Lac
+Chennai,Thirumazhisai,Flat,1 BHK,544 sqft,Unfurnish,New Property,Possession by Dec '23,₹ 5450 per sqft,₹ 29.7 Lac
+Chennai,Perumbakkam,Flat,2 BHK,796 sqft,Furnish,New Property,Possession by Sep '23,₹ 3599 per sqft,₹ 28.6 Lac
+Chennai,Thalambur,Flat,2 BHK,1026 sqft,Unfurnish,New Property,Possession by Mar '24,₹ 4724 per sqft,₹ 48.5 Lac
+Chennai,Perungalathur Chennai Bypass Road,Flat,2 BHK,903 sqft,Unfurnish,New Property,Possession by Jul '22,₹ 4877 per sqft,₹ 44 Lac
+Chennai,Sembakkam,Flat,3 BHK,1550 sqft,Unfurnish,New Property,Possession by Jul '22,₹ 6749 per sqft,₹ 1.04 Cr
+Chennai,G S T Road,Flat,2 BHK,1455 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 5407 per sqft,₹ 78.7 Lac
+Chennai,Tambaram East,Flat,2 BHK,1004 sqft,Unfurnish,New Property,Possession by Sep '22,₹ 7100 per sqft,₹ 71.3 Lac
+Chennai,Medavakkam,Flat,3 BHK,1280 sqft,Unfurnish,New Property,Possession by Nov '22,₹ 7049 per sqft,₹ 90.2 Lac
+Chennai,Padur Old Mahabalipuram Road,Flat,3 BHK,918 sqft,Unfurnish,New Property,Possession by Mar '23,₹ 4855 per sqft,₹ 44.6 Lac
+Chennai,Sholinganallur,Flat,2 BHK,1064 sqft,Unfurnish,New Property,Possession by Sep '24,₹ 6042 per sqft,₹ 64.3 Lac
+Chennai,Thoraipakkam,Flat,2 BHK,1291 sqft,Unfurnish,New Property,Ready to Move,₹ 8000 per sqft,₹ 1.03 Cr
+Chennai,Vanagaram,Flat,3 BHK,1528 sqft,Unfurnish,New Property,Possession by Feb '24,₹ 5999 per sqft,₹ 91.7 Lac
+Chennai,Kottivakkam,Flat,3 BHK,1271 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 7999 per sqft,₹ 1.01 Cr
+Chennai,Siruseri,Flat,3 BHK,1685 sqft,Unfurnish,New Property,Ready to Move,₹ 5045 per sqft,₹ 85 Lac
+Chennai,Siruseri,Flat,1 BHK,495 sqft,Unfurnish,New Property,Possession by Dec '22,₹ 4433 per sqft,₹ 21.9 Lac
+Chennai,Unknown,,0 BHK,228 sqft,Unfurnish,New Property,Possession by Dec '23,₹ 6711 per sqft,₹ 15.3 Lac
+Chennai,Thoraipakkam,Flat,2 BHK,1452 sqft,Unfurnish,New Property,Ready to Move,₹ 5599 per sqft,₹ 81.3 Lac
+Chennai,Mogappair West,Flat,2 BHK,1288 sqft,Unfurnish,New Property,Possession by Dec '24,₹ 6910 per sqft,₹ 89 Lac
+Chennai,Saligramam,Flat,2 BHK,945 sqft,Unfurnish,New Property,Possession by Jun '22,₹ 9999 per sqft,₹ 94.5 Lac
+Chennai,Nerkundram Koyambedu,Flat,2 BHK,1241 sqft,Unfurnish,New Property,Possession by Apr '22,₹ 6499 per sqft,₹ 80.7 Lac
+Chennai,Porur,Flat,3 BHK,1268 sqft,Unfurnish,New Property,Possession by Dec '23,₹ 5499 per sqft,₹ 69.7 Lac
+Chennai,Navalur,Flat,4 BHK,2343 sqft,Unfurnish,New Property,Ready to Move,₹ 5122 per sqft,₹ 1.20 Cr
+Chennai,Old Mahabalipuram Road,Flat,3 BHK,1080 sqft,Unfurnish,New Property,Possession by Jul '24,₹ 4599 per sqft,₹ 49.7 Lac
+Chennai,Siruseri,Flat,2 BHK,1132 sqft,Unfurnish,New Property,Possession by Apr '22,₹ 3399 per sqft,₹ 38.5 Lac
+Chennai,Guindy,Flat,3 BHK,1590 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 7499 per sqft,₹ 1.19 Cr
+Chennai,Keelkattalai,Flat,3 BHK,1410 sqft,Unfurnish,New Property,Possession by Jun '23,₹ 6199 per sqft,₹ 87.4 Lac
+Chennai,Medavakkam,Flat,3 BHK,1595 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 5500 per sqft,₹ 87.7 Lac
+Chennai,Kolapakkam,Flat,3 BHK,1318 sqft,Unfurnish,New Property,Possession by May '23,₹ 5500 per sqft,₹ 72.5 Lac
+Chennai,Ambattur,Flat,3 BHK,1674 sqft,Unfurnish,New Property,Ready to Move,₹ 4808 per sqft,₹ 80.5 Lac
+Chennai,Valasaravakkam Arcot Road,Flat,3 BHK,1513 sqft,Unfurnish,New Property,Possession by Mar '24,₹ 8215 per sqft,₹ 1.24 Cr
+Chennai,Madipakkam,Flat,2 BHK,754 sqft,Unfurnish,New Property,Ready to Move,₹ 4500 per sqft,₹ 33.9 Lac
+Chennai,Anakaputhur,Flat,1 BHK,445 sqft,Unfurnish,New Property,Possession by Dec '22,₹ 5000 per sqft,₹ 22.3 Lac
+Chennai,Virugambakkam,Flat,3 BHK,1190 sqft,Unfurnish,New Property,Ready to Move,₹ 10000 per sqft,₹ 1.19 Cr
+Chennai,Chromepet GST Road,Flat,3 BHK,1470 sqft,Unfurnish,New Property,Ready to Move,₹ 4195 per sqft,₹ 61.7 Lac
+Chennai,Chromepet GST Road,Flat,3 BHK,1153 sqft,Unfurnish,New Property,Possession by Aug '22,₹ 6300 per sqft,₹ 72.6 Lac
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,2 BHK,1274 sqft,Unfurnish,New Property,Ready to Move,₹ 3799 per sqft,₹ 48.4 Lac
+Chennai,Porur,Flat,2 BHK,1078 sqft,Unfurnish,New Property,Ready to Move,₹ 5500 per sqft,₹ 59.3 Lac
+Chennai,Gerugambakkam Chennai Bypass Road,Flat,3 BHK,1480 sqft,Unfurnish,New Property,Possession by Jun '22,₹ 4500 per sqft,₹ 66.6 Lac
+Chennai,Ambattur,Flat,3 BHK,1345 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 4699 per sqft,₹ 63.2 Lac
+Chennai,Mogappair West,Flat,3 BHK,1878 sqft,Unfurnish,New Property,Possession by Dec '24,₹ 7614 per sqft,₹ 1.43 Cr
+Chennai,Perambur,Flat,2 BHK,741 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 5500 per sqft,₹ 40.8 Lac
+Chennai,Pallavaram,Flat,2 BHK,1064 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 5899 per sqft,₹ 62.8 Lac
+Chennai,Sholinganallur,Flat,3 BHK,1410 sqft,Unfurnish,New Property,Ready to Move,₹ 5362 per sqft,₹ 75.6 Lac
+Chennai,Perumbakkam,Flat,2 BHK,989 sqft,Unfurnish,New Property,Ready to Move,₹ 3499 per sqft,₹ 34.6 Lac
+Chennai,Pallavaram,Flat,2 BHK,807 sqft,Unfurnish,New Property,Possession by Feb '22,,₹ 72.8 Lac
+Chennai,Perungudi,Flat,3 BHK,1723 sqft,Unfurnish,New Property,Possession by Jun '23,₹ 7450 per sqft,₹ 1.28 Cr
+Chennai,Medavakkam,Flat,2 BHK,742 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 47.7 Lac
+Chennai,Medavakkam,Flat,3 BHK,1314 sqft,Unfurnish,New Property,Possession by Jun '22,₹ 4399 per sqft,₹ 57.8 Lac
+Chennai,Valasaravakkam Arcot Road,Flat,2 BHK,921 sqft,Unfurnish,New Property,Possession by Apr '22,₹ 7799 per sqft,₹ 71.8 Lac
+Chennai,Padur Old Mahabalipuram Road,Flat,3 BHK,918 sqft,Unfurnish,New Property,Possession by Mar '23,₹ 4684 per sqft,₹ 43 Lac
+Chennai,Chitlapakkam,Flat,3 BHK,1252 sqft,Unfurnish,New Property,Ready to Move,₹ 5800 per sqft,₹ 72.6 Lac
+Chennai,Kattupakkam PH Road,Flat,3 BHK,1473 sqft,Unfurnish,New Property,Ready to Move,₹ 5499 per sqft,₹ 81 Lac
+Chennai,Thoraipakkam,Flat,1 BHK,569 sqft,Unfurnish,New Property,Ready to Move,₹ 7000 per sqft,₹ 39.8 Lac
+Chennai,Perumbakkam,Flat,2 BHK,849 sqft,Unfurnish,New Property,Possession by Dec '22,₹ 3750 per sqft,₹ 31.8 Lac
+Chennai,Pallavaram,Flat,2 BHK,1122 sqft,Unfurnish,New Property,Ready to Move,₹ 7201 per sqft,₹ 80.8 Lac
+Chennai,Korattur Jawaharlal Nehru Road,Flat,2 BHK,1085 sqft,Unfurnish,New Property,Ready to Move,,₹ 87 Lac
+Chennai,Perungudi,Flat,1 BHK,393 sqft,Unfurnish,New Property,Possession by Jul '23,,₹ 52.3 Lac
+Chennai,Navalur,Flat,3 BHK,1103 sqft,Unfurnish,New Property,Ready to Move,,₹ 82 Lac
+Chennai,Thoraipakkam,Flat,2 BHK,1100 sqft,Unfurnish,Old Property,Ready to Move,,₹ 72 Lac
+Chennai,Sholinganallur,Flat,2 BHK,1237 sqft,Unfurnish,New Property,Ready to Move,₹ 7033 per sqft,₹ 87 Lac
+Chennai,Adambakkam,Flat,1 BHK,455 sqft,Furnish,New Property,Ready to Move,,₹ 43 Lac
+Chennai,Perumbakkam,Flat,2 BHK,1489 sqft,Unfurnish,Old Property,Ready to Move,₹ 4164 per sqft,₹ 62 Lac
+Chennai,Mahindra World City,Flat,2 BHK,612 sqft,Furnish,Old Property,Ready to Move,,₹ 33 Lac
+Chennai,Mahabalipuram,Flat,2 BHK,1140 sqft,Furnish,Old Property,Ready to Move,₹ 10964 per sqft,₹ 1.25 Cr
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,2 BHK,994 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 3999 per sqft,₹ 39.8 Lac
+Chennai,Kovilambakkam,Flat,2 BHK,691 sqft,Unfurnish,New Property,Possession by Jan '22,,₹ 61.4 Lac
+Chennai,Poonamalle,Flat,4 BHK,1710 sqft,Unfurnish,New Property,Ready to Move,₹ 4433 per sqft,₹ 75.8 Lac
+Chennai,Padur Old Mahabalipuram Road,Flat,3 BHK,1196 sqft,Unfurnish,New Property,Possession by Dec '21,,₹ 88 Lac
+Chennai,Perumbakkam,Flat,2 BHK,900 sqft,Furnish,Old Property,Ready to Move,,₹ 63 Lac
+Chennai,Karapakkam,Flat,2 BHK,1040 sqft,Furnish,New Property,Ready to Move,₹ 6250 per sqft,₹ 75 Lac
+Chennai,Guduvancheri,Flat,2 BHK,777 sqft,Unfurnish,New Property,Possession by Jun '22,,₹ 45 Lac
+Chennai,Thalambur,Flat,2 BHK,780 sqft,Unfurnish,New Property,Possession by Mar '24,,₹ 42 Lac
+Chennai,Madipakkam,Flat,3 BHK,1150 sqft,Unfurnish,New Property,Ready to Move,₹ 5800 per sqft,₹ 66.7 Lac
+Chennai,Guduvancheri,Flat,3 BHK,860 sqft,Unfurnish,New Property,Ready to Move,,₹ 57 Lac
+Chennai,Nanmangalam,Flat,3 BHK,1020 sqft,Unfurnish,New Property,Ready to Move,,₹ 49.2 Lac
+Chennai,Madipakkam,Flat,3 BHK,1155 sqft,Unfurnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,Kolathur,Flat,3 BHK,1456 sqft,Unfurnish,New Property,Possession by Oct '22,₹ 6788 per sqft,₹ 98.8 Lac
+Chennai,KarthikeyaPuram Madipakkam,Flat,3 BHK,1490 sqft,Furnish,New Property,Possession by Jan '22,,₹ 93.9 Lac
+Chennai,Kovur,Flat,2 BHK,1012 sqft,Unfurnish,New Property,Ready to Move,₹ 3999 per sqft,₹ 40.5 Lac
+Chennai,Mogappair West,Flat,3 BHK,1141 sqft,Furnish,New Property,Ready to Move,,₹ 1.17 Cr
+Chennai,Dharmarajapuram Kolapakkam,Flat,3 BHK,968 sqft,Unfurnish,New Property,Ready to Move,,₹ 87.5 Lac
+Chennai,Karapakkam,Flat,3 BHK,1307 sqft,Unfurnish,New Property,Ready to Move,₹ 6495 per sqft,₹ 85 Lac
+Chennai,Siruseri,Flat,2 BHK,822 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 4199 per sqft,₹ 34.5 Lac
+Chennai,Sholinganallur,Flat,3 BHK,912 sqft,Furnish,New Property,Possession by Sep '24,,₹ 80 Lac
+Chennai,Sholinganallur,Flat,3 BHK,1275 sqft,Furnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,Adambakkam,Flat,2 BHK,937 sqft,Unfurnish,New Property,Possession by Jun '22,₹ 8684 per sqft,₹ 81.4 Lac
+Chennai,Pammal,Flat,2 BHK,780 sqft,Unfurnish,New Property,Ready to Move,₹ 4800 per sqft,₹ 37.4 Lac
+Chennai,Adambakkam,Flat,2 BHK,786 sqft,Unfurnish,New Property,Possession by Jan '22,,₹ 86 Lac
+Chennai,Perungudi,Flat,1 BHK,600 sqft,Furnish,New Property,Possession by Dec '22,₹ 7667 per sqft,₹ 46 Lac
+Chennai,Tiruvenkadam Nagar,Flat,3 BHK,907 sqft,Furnish,New Property,Ready to Move,,₹ 84 Lac
+Chennai,Sembakkam,Flat,3 BHK,923 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 64.4 Lac
+Chennai,Medavakkam,Flat,2 BHK,800 sqft,Unfurnish,New Property,Ready to Move,₹ 6000 per sqft,₹ 48 Lac
+Chennai,Mogappair West,Flat,2 BHK,1288 sqft,Unfurnish,New Property,Possession by Sep '23,₹ 6690 per sqft,₹ 86.2 Lac
+Chennai,Tiruvottiyur,Flat,3 BHK,1117 sqft,Unfurnish,New Property,Ready to Move,₹ 4300 per sqft,₹ 48 Lac
+Chennai,Thirumazhisai,Flat,3 BHK,620 sqft,Unfurnish,New Property,Possession by Mar '24,,₹ 29.2 Lac
+Chennai,Poonamallee,Flat,2 BHK,622 sqft,Unfurnish,New Property,Possession by Jan '22,,₹ 47 Lac
+Chennai,Pallikaranai,Flat,3 BHK,1080 sqft,Unfurnish,New Property,Possession by Jan '22,,₹ 81.7 Lac
+Chennai,Manapakkam,Flat,3 BHK,1027 sqft,Unfurnish,New Property,Possession by Jul '22,,₹ 85.8 Lac
+Chennai,Kottivakkam,Flat,2 BHK,1066 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 7999 per sqft,₹ 85.3 Lac
+Chennai,Virugambakkam,Flat,3 BHK,1450 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 9034 per sqft,₹ 1.31 Cr
+Chennai,Sholinganallur,Flat,2 BHK,1245 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 4599 per sqft,₹ 57.3 Lac
+Chennai,Madipakkam,Flat,2 BHK,850 sqft,Unfurnish,Old Property,Possession by Dec '21,,₹ 67.6 Lac
+Chennai,Iyyappanthangal,Flat,1 BHK,500 sqft,Furnish,Old Property,Ready to Move,,₹ 48 Lac
+Chennai,Perungudi,Flat,2 BHK,799 sqft,Unfurnish,New Property,Possession by Jan '23,,₹ 52 Lac
+Chennai,Kamakoti Nagar Pallikaranai,Flat,3 BHK,1400 sqft,Unfurnish,New Property,Possession by Aug '22,,₹ 81.2 Lac
+Chennai,Tambaram East,Flat,3 BHK,927 sqft,Unfurnish,New Property,Possession by Oct '22,,₹ 69 Lac
+Chennai,Perungudi,Flat,2 BHK,1184 sqft,Unfurnish,New Property,Possession by Dec '22,₹ 7432 per sqft,₹ 88 Lac
+Chennai,Chromepet GST Road,Flat,3 BHK,1170 sqft,Unfurnish,New Property,Possession by Jan '22,,₹ 75.8 Lac
+Chennai,Perungudi,Flat,3 BHK,1006 sqft,Unfurnish,New Property,Possession by Apr '22,,₹ 72 Lac
+Chennai,Mogappair West,Flat,2 BHK,678 sqft,Unfurnish,New Property,Possession by Sep '23,,₹ 72.1 Lac
+Chennai,Madambakkam,Flat,2 BHK,576 sqft,Furnish,Old Property,Ready to Move,,₹ 51 Lac
+Chennai,Vetri Nagar Perambur,Flat,1 BHK,500 sqft,Furnish,Old Property,Ready to Move,,₹ 35 Lac
+Chennai,New Avadi Road,Flat,2 BHK,1028 sqft,Unfurnish,Old Property,Ready to Move,₹ 8754 per sqft,₹ 90 Lac
+Chennai,Karayanchavadi,Flat,2 BHK,725 sqft,Unfurnish,Old Property,Ready to Move,,₹ 38 Lac
+Chennai,Oragadam,Flat,3 BHK,1400 sqft,Furnish,New Property,Ready to Move,,₹ 98 Lac
+Chennai,Ponmar,Flat,2 BHK,645 sqft,Furnish,Old Property,Ready to Move,,₹ 30 Lac
+Chennai,Guduvancheri,Flat,3 BHK,1514 sqft,Furnish,Old Property,Ready to Move,,₹ 62.5 Lac
+Chennai,Perungudi,Flat,3 BHK,1402 sqft,Unfurnish,Old Property,Ready to Move,,₹ 99 Lac
+Chennai,Varadaraja Puram Ambattur,Flat,3 BHK,1784 sqft,Furnish,Old Property,Ready to Move,₹ 3643 per sqft,₹ 65 Lac
+Chennai,Mudichur,Flat,2 BHK,745 sqft,Unfurnish,Old Property,Ready to Move,₹ 5235 per sqft,₹ 39 Lac
+Chennai,Nanmangalam,Flat,2 BHK,700 sqft,Unfurnish,Old Property,Ready to Move,,₹ 34.5 Lac
+Chennai,Pasumpon Nagar Kallikuppam Ambattur Chennai Bypass Road,Flat,2 BHK,874 sqft,Furnish,New Property,Ready to Move,,₹ 45 Lac
+Chennai,Kattukuppam Ennore,Flat,2 BHK,912 sqft,Furnish,Old Property,Ready to Move,,₹ 44 Lac
+Chennai,Kandigai,Flat,3 BHK,1262 sqft,Unfurnish,Old Property,Ready to Move,,₹ 60 Lac
+Chennai,Mogappair East,Flat,3 BHK,1000 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Chennai,Kazhipattur,Flat,2 BHK,986 sqft,Unfurnish,Old Property,Ready to Move,,₹ 40 Lac
+Chennai,T Nagar,Flat,3 BHK,1165 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.31 Cr
+Chennai,Ponmar,Flat,3 BHK,1280 sqft,Unfurnish,Old Property,Ready to Move,,₹ 45 Lac
+Chennai,Kovilambakkam,Flat,2 BHK,1050 sqft,Unfurnish,Old Property,Ready to Move,₹ 3810 per sqft,₹ 40 Lac
+Chennai,Oragadam,Flat,3 BHK,1320 sqft,Unfurnish,Old Property,Ready to Move,₹ 4545 per sqft,₹ 60 Lac
+Chennai,Pallikaranai,Flat,1 BHK,620 sqft,Furnish,Old Property,Ready to Move,₹ 6129 per sqft,₹ 38 Lac
+Chennai,Nandivaram Guduvancheri,Flat,2 BHK,900 sqft,Unfurnish,Old Property,Ready to Move,₹ 4444 per sqft,₹ 40 Lac
+Chennai,Athipatttu,Flat,1 BHK,630 sqft,Furnish,Old Property,Ready to Move,₹ 4762 per sqft,₹ 30 Lac
+Chennai,Unknown,Flat,3 BHK,1410 sqft,Unfurnish,Old Property,Ready to Move,₹ 4965 per sqft,₹ 70 Lac
+Chennai,Mogappair West,Flat,2 BHK,1019 sqft,Furnish,Old Property,Ready to Move,₹ 6016 per sqft,₹ 61.3 Lac
+Chennai,Jamalia,Flat,2 BHK,590 sqft,Furnish,Old Property,Ready to Move,₹ 7966 per sqft,₹ 47 Lac
+Chennai,Oragadam,Flat,2 BHK,515 sqft,Furnish,Old Property,Ready to Move,,₹ 45 Lac
+Chennai,Padapai,Flat,2 BHK,969 sqft,Unfurnish,New Property,Ready to Move,,₹ 35 Lac
+Chennai,Ayanambakkam,Flat,3 BHK,1805 sqft,Furnish,Old Property,Ready to Move,₹ 5263 per sqft,₹ 95 Lac
+Chennai,Perungudi,Flat,3 BHK,1525 sqft,Furnish,Old Property,Ready to Move,₹ 7541 per sqft,₹ 1.15 Cr
+Chennai,Korattur Jawaharlal Nehru Road,Flat,2 BHK,1091 sqft,Unfurnish,Old Property,Ready to Move,₹ 7333 per sqft,₹ 80 Lac
+Chennai,Keelkattalai,Flat,1 BHK,600 sqft,Unfurnish,New Property,Ready to Move,,₹ 36 Lac
+Chennai,Unknown,Flat,2 BHK,831 sqft,Unfurnish,Old Property,Ready to Move,₹ 3610 per sqft,₹ 30 Lac
+Chennai,Thalambur,Flat,2 BHK,832 sqft,Unfurnish,Old Property,Ready to Move,₹ 5409 per sqft,₹ 45 Lac
+Chennai,Perungalathur Chennai Bypass Road,Flat,3 BHK,1350 sqft,Furnish,Old Property,Ready to Move,,₹ 75 Lac
+Chennai,Perambur,Flat,2 BHK,875 sqft,Furnish,Old Property,Ready to Move,₹ 5714 per sqft,₹ 50 Lac
+Chennai,Madhavaram Guntur Chennai Highway,Flat,2 BHK,894 sqft,Furnish,Old Property,Possession by Jan '22,,₹ 72.8 Lac
+Chennai,Selaiyur,Flat,2 BHK,976 sqft,Furnish,Old Property,Ready to Move,,₹ 62 Lac
+Chennai,Kolathur,Flat,2 BHK,589 sqft,Unfurnish,Old Property,Possession by May '22,,₹ 56.5 Lac
+Chennai,Ambedkar Nagar Manapakkam,Flat,3 BHK,1200 sqft,Furnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,Perumbakkam,Flat,3 BHK,1476 sqft,Unfurnish,Old Property,Ready to Move,₹ 5420 per sqft,₹ 80 Lac
+Chennai,Pudupakkam,Flat,3 BHK,1953 sqft,Unfurnish,Old Property,Ready to Move,₹ 5888 per sqft,₹ 1.15 Cr
+Chennai,Valasaravakkam Arcot Road,Flat,2 BHK,850 sqft,Unfurnish,New Property,Ready to Move,₹ 7624 per sqft,₹ 64.8 Lac
+Chennai,Madipakkam,Flat,2 BHK,750 sqft,Furnish,Old Property,Ready to Move,,₹ 45 Lac
+Chennai,Thirumullaivoyal,Flat,2 BHK,480 sqft,Furnish,Old Property,Ready to Move,,₹ 39 Lac
+Chennai,Tambaram West Tambaram Chennai Bypass Road,Flat,3 BHK,1226 sqft,Furnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,Egattur Uthandi,Flat,3 BHK,1695 sqft,Furnish,Old Property,Ready to Move,₹ 7965 per sqft,₹ 1.35 Cr
+Chennai,Ponniammanmedu,Flat,2 BHK,894 sqft,Unfurnish,Old Property,Possession by Jan '22,,₹ 72.8 Lac
+Chennai,Surapet,Flat,2 BHK,920 sqft,Unfurnish,New Property,Ready to Move,₹ 5521 per sqft,₹ 45 Lac
+Chennai,Krishna Nagar Tambaram West,Flat,3 BHK,1034 sqft,Unfurnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,Virugambakkam,Flat,2 BHK,1200 sqft,Unfurnish,Old Property,Ready to Move,,₹ 80 Lac
+Chennai,Ambattur,Flat,3 BHK,1600 sqft,Furnish,New Property,Ready to Move,,₹ 69.6 Lac
+Chennai,Navalur,Flat,3 BHK,1350 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.15 Cr
+Chennai,Velachery,Flat,3 BHK,1300 sqft,Unfurnish,New Property,Possession by Jan '23,,₹ 1.45 Cr
+Chennai,Ram Garden Soumya Nagar,Flat,2 BHK,687 sqft,Unfurnish,Old Property,Ready to Move,,₹ 62 Lac
+Chennai,Shanmuga Nagar Pozhichalur,Flat,3 BHK,1460 sqft,Furnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,Pallavaram,Flat,2 BHK,1024 sqft,Unfurnish,New Property,Possession by Aug '22,₹ 7080 per sqft,₹ 72.5 Lac
+Chennai,Padmavathi Nagar,Flat,1 BHK,435 sqft,Unfurnish,Old Property,Ready to Move,,₹ 35 Lac
+Chennai,Veerabhadra Nagar,Flat,2 BHK,1100 sqft,Unfurnish,Old Property,Ready to Move,,₹ 48.4 Lac
+Chennai,Pallikaranai,Flat,2 BHK,880 sqft,Furnish,Old Property,Ready to Move,,₹ 43 Lac
+Chennai,Navalur,Flat,2 BHK,785 sqft,Unfurnish,New Property,Possession by Apr '22,,₹ 47 Lac
+Chennai,Oragadam Sriperumbudur,Flat,3 BHK,885 sqft,Furnish,Old Property,Ready to Move,,₹ 38 Lac
+Chennai,Padur Old Mahabalipuram Road,Flat,2 BHK,750 sqft,Unfurnish,New Property,Ready to Move,,₹ 52 Lac
+Chennai,Karpagam Avenue,Flat,1 BHK,550 sqft,Furnish,Old Property,Ready to Move,,₹ 42 Lac
+Chennai,Perumbakkam,Flat,3 BHK,1704 sqft,Furnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,Oragadam,Flat,3 BHK,1500 sqft,Unfurnish,Old Property,Ready to Move,,₹ 69.9 Lac
+Chennai,Thiruporur,Flat,2 BHK,1150 sqft,Unfurnish,Old Property,Ready to Move,₹ 2348 per sqft,₹ 27 Lac
+Chennai,Mahindra World City,Flat,1 BHK,595 sqft,Furnish,Old Property,Ready to Move,,₹ 30 Lac
+Chennai,Mambalam West,Flat,2 BHK,1000 sqft,Unfurnish,Old Property,Ready to Move,₹ 13500 per sqft,₹ 1.35 Cr
+Chennai,VGN Mahalakshmi Nagar Maduravoyal,Flat,3 BHK,1096 sqft,Furnish,Old Property,Ready to Move,₹ 5383 per sqft,₹ 59 Lac
+Chennai,Seetha Nagar Nungambakkam,Flat,2 BHK,852 sqft,Furnish,Old Property,Ready to Move,₹ 9977 per sqft,₹ 85 Lac
+Chennai,Navalur,Flat,3 BHK,1567 sqft,Furnish,Old Property,Ready to Move,₹ 5105 per sqft,₹ 80 Lac
+Chennai,Irungattukottai,Flat,2 BHK,824 sqft,Furnish,Old Property,Ready to Move,₹ 3641 per sqft,₹ 30 Lac
+Chennai,Tambaram GST Road,Flat,2 BHK,647 sqft,Furnish,Old Property,Ready to Move,,₹ 38.7 Lac
+Chennai,Ram Nagar South Extension Madipakkam,Flat,2 BHK,750 sqft,Furnish,Old Property,Ready to Move,,₹ 47 Lac
+Chennai,Kalavakkam,Flat,2 BHK,800 sqft,Unfurnish,Old Property,Ready to Move,,₹ 30 Lac
+Chennai,Selaiyur,Flat,2 BHK,1012 sqft,Furnish,Old Property,Ready to Move,₹ 4545 per sqft,₹ 46 Lac
+Chennai,Tambaram GST Road,Flat,2 BHK,961 sqft,Unfurnish,Old Property,Ready to Move,,₹ 42 Lac
+Chennai,Kottivakkam,Flat,2 BHK,780 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.37 Cr
+Chennai,Old Mahabalipuram Road,Flat,2 BHK,993 sqft,Furnish,Old Property,Ready to Move,₹ 3525 per sqft,₹ 35 Lac
+Chennai,Kotturpuram,Flat,1 BHK,510 sqft,Furnish,Old Property,Ready to Move,,₹ 47 Lac
+Chennai,Thirumullaivoyal Rajiv Gandhi Nagar Vanagaram,Flat,3 BHK,1070 sqft,Furnish,Old Property,Ready to Move,₹ 4074 per sqft,₹ 48 Lac
+Chennai,Kilpauk,Flat,2 BHK,780 sqft,Unfurnish,Old Property,Ready to Move,,₹ 68 Lac
+Chennai,Tambaram East,Flat,2 BHK,775 sqft,Furnish,Old Property,Ready to Move,,₹ 48 Lac
+Chennai,Hasthinapuram,Flat,2 BHK,913 sqft,Furnish,Old Property,Ready to Move,,₹ 54.3 Lac
+Chennai,Tambaram East,Flat,2 BHK,1260 sqft,Unfurnish,Old Property,Ready to Move,₹ 5476 per sqft,₹ 69 Lac
+Chennai,Mogappair,Flat,2 BHK,782 sqft,Furnish,Old Property,Ready to Move,₹ 7320 per sqft,₹ 57.3 Lac
+Chennai,Nandivaram Guduvancheri,Flat,2 BHK,837 sqft,Furnish,Old Property,Ready to Move,₹ 3584 per sqft,₹ 30 Lac
+Chennai,Mugalivakkam,Flat,2 BHK,815 sqft,Unfurnish,Old Property,Possession by Jan '22,,₹ 60.5 Lac
+Chennai,Alandur,Flat,3 BHK,1150 sqft,Furnish,Old Property,Ready to Move,₹ 6947 per sqft,₹ 79.9 Lac
+Chennai,Medavakkam,Flat,2 BHK,1200 sqft,Furnish,Old Property,Ready to Move,₹ 5000 per sqft,₹ 60 Lac
+Chennai,Banu Nagar,Flat,3 BHK,1690 sqft,Unfurnish,Old Property,Ready to Move,₹ 4142 per sqft,₹ 70 Lac
+Chennai,Surapet,Flat,1 BHK,425 sqft,Unfurnish,New Property,Ready to Move,,₹ 26 Lac
+Chennai,Ambattur,Flat,2 BHK,1015 sqft,Unfurnish,New Property,Ready to Move,,₹ 49 Lac
+Chennai,Tambaram Sanatorium,Flat,3 BHK,1126 sqft,Furnish,Old Property,Ready to Move,,₹ 82.2 Lac
+Chennai,Pallikaranai,Flat,2 BHK,860 sqft,Furnish,Old Property,Ready to Move,₹ 4070 per sqft,₹ 35 Lac
+Chennai,Thirumazhisai,Flat,1 BHK,538 sqft,Unfurnish,Old Property,Ready to Move,,₹ 24.3 Lac
+Chennai,KK Nagar,Flat,2 BHK,660 sqft,Furnish,New Property,Ready to Move,,₹ 69 Lac
+Chennai,Thiruporur,Flat,3 BHK,1095 sqft,Furnish,Old Property,Ready to Move,₹ 2739 per sqft,₹ 30 Lac
+Chennai,Poonamalle,Flat,2 BHK,686 sqft,Unfurnish,Old Property,Ready to Move,,₹ 56 Lac
+Chennai,Velachery,Flat,2 BHK,840 sqft,Unfurnish,Old Property,Possession by Jan '22,,₹ 85 Lac
+Chennai,Unknown,Flat,3 BHK,1278 sqft,Unfurnish,Old Property,Ready to Move,,₹ 78 Lac
+Chennai,Unknown,Flat,3 BHK,1251 sqft,Unfurnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,Pattabiram Chennai Tiruttani Highway,Flat,2 BHK,1000 sqft,Furnish,Old Property,Ready to Move,,₹ 50 Lac
+Chennai,Tiruvottiyur,Flat,5 BHK,1635 sqft,Unfurnish,Old Property,Ready to Move,₹ 7339 per sqft,₹ 1.20 Cr
+Chennai,Poonamalle,Flat,2 BHK,1048 sqft,Unfurnish,Old Property,Ready to Move,₹ 4866 per sqft,₹ 51 Lac
+Chennai,Madipakkam,Flat,1 BHK,675 sqft,Unfurnish,Old Property,Ready to Move,,₹ 33.1 Lac
+Chennai,Maraimalai Nagar,Flat,3 BHK,1949 sqft,Furnish,Old Property,Ready to Move,₹ 3078 per sqft,₹ 60 Lac
+Chennai,Mangadu,Flat,2 BHK,720 sqft,Furnish,Old Property,Possession by Jan '22,,₹ 35 Lac
+Chennai,Choolai,Flat,3 BHK,1300 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.39 Cr
+Chennai,KK Nagar,Flat,2 BHK,495 sqft,Unfurnish,Old Property,Ready to Move,,₹ 65 Lac
+Chennai,Ambattur,Flat,3 BHK,1000 sqft,Unfurnish,Old Property,Ready to Move,,₹ 45 Lac
+Chennai,Madipakkam,Flat,3 BHK,1265 sqft,Furnish,Old Property,Ready to Move,,₹ 95 Lac
+Chennai,West Jafferkhanpet,Flat,2 BHK,746 sqft,Unfurnish,Old Property,Ready to Move,₹ 6032 per sqft,₹ 45 Lac
+Chennai,Thirumullaivoyal,Flat,3 BHK,850 sqft,Furnish,Old Property,Ready to Move,,₹ 60 Lac
+Chennai,Habibullah Road,Flat,3 BHK,1000 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Chennai,Kolapakkam,Flat,3 BHK,1100 sqft,Furnish,New Property,Ready to Move,,₹ 68 Lac
+Chennai,Kolapakkam,Flat,2 BHK,720 sqft,Unfurnish,Old Property,Ready to Move,,₹ 37 Lac
+Chennai,Pallikaranai,Flat,2 BHK,725 sqft,Furnish,Old Property,Ready to Move,,₹ 43 Lac
+Chennai,Ayanambakkam,Flat,3 BHK,1292 sqft,Unfurnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,Kovilambakkam,Flat,2 BHK,900 sqft,Furnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,Porur,Flat,3 BHK,1485 sqft,Furnish,Old Property,Ready to Move,,₹ 1.38 Cr
+Chennai,Kazhipattur,Flat,3 BHK,1275 sqft,Unfurnish,Old Property,Ready to Move,₹ 4078 per sqft,₹ 52 Lac
+Chennai,Keelkattalai,Flat,2 BHK,875 sqft,Unfurnish,Old Property,Ready to Move,₹ 5942 per sqft,₹ 52 Lac
+Chennai,Okkiyam Thuraipakkam E Coast Road,Flat,2 BHK,808 sqft,Furnish,Old Property,Ready to Move,,₹ 55.4 Lac
+Chennai,Chettipunyam,Flat,2 BHK,462 sqft,Furnish,Old Property,Ready to Move,,₹ 45 Lac
+Chennai,Ambattur Industrial Estate Chennai Bypass Road,Flat,2 BHK,1200 sqft,Unfurnish,Old Property,Ready to Move,,₹ 95 Lac
+Chennai,Ayanavaram,Flat,1 BHK,480 sqft,Unfurnish,Old Property,Ready to Move,,₹ 40 Lac
+Chennai,Korattur Jawaharlal Nehru Road,Flat,2 BHK,770 sqft,Unfurnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,Perumbakkam,Flat,2 BHK,600 sqft,Furnish,Old Property,Ready to Move,,₹ 47 Lac
+Chennai,Padur Old Mahabalipuram Road,Flat,3 BHK,950 sqft,Furnish,Old Property,Ready to Move,,₹ 62 Lac
+Chennai,Besant Nagar,Flat,1 BHK,885 sqft,Unfurnish,Old Property,Ready to Move,₹ 14000 per sqft,₹ 1.23 Cr
+Chennai,Sithalapakkam,Flat,3 BHK,1100 sqft,Furnish,Old Property,Ready to Move,,₹ 70 Lac
+Chennai,Royapuram,Flat,3 BHK,1000 sqft,Furnish,Old Property,Ready to Move,,₹ 1.30 Cr
+Chennai,Iyyappanthangal,Flat,2 BHK,300 sqft,Furnish,Old Property,Ready to Move,,₹ 44 Lac
+Chennai,Madhanandapuram Chennai Bypass Road,Flat,2 BHK,850 sqft,Unfurnish,New Property,Ready to Move,,₹ 45.4 Lac
+Chennai,Navalur,Flat,3 BHK,1400 sqft,Furnish,Old Property,Ready to Move,,₹ 1.20 Cr
+Chennai,Vanagaram,Flat,2 BHK,1018 sqft,Unfurnish,New Property,Ready to Move,₹ 5697 per sqft,₹ 58 Lac
+Chennai,Kaspapuram,Flat,2 BHK,920 sqft,Furnish,Old Property,Ready to Move,₹ 3804 per sqft,₹ 35 Lac
+Chennai,Siruseri,Flat,2 BHK,896 sqft,Unfurnish,Old Property,Ready to Move,,₹ 40 Lac
+Chennai,Kalavakkam,Flat,2 BHK,898 sqft,Unfurnish,Old Property,Ready to Move,,₹ 32.3 Lac
+Chennai,Tambaram West Tambaram Chennai Bypass Road,Flat,3 BHK,1294 sqft,Furnish,Old Property,Ready to Move,₹ 4637 per sqft,₹ 60 Lac
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,2 BHK,636 sqft,Furnish,Old Property,Ready to Move,,₹ 25 Lac
+Chennai,Kotturpuram,Flat,2 BHK,1240 sqft,Unfurnish,Old Property,Ready to Move,₹ 11290 per sqft,₹ 1.40 Cr
+Chennai,Pallavaram,Flat,2 BHK,1122 sqft,Furnish,Old Property,Ready to Move,₹ 7308 per sqft,₹ 82 Lac
+Chennai,Old Mahabalipuram Road,Flat,2 BHK,950 sqft,Unfurnish,Old Property,Ready to Move,,₹ 53 Lac
+Chennai,Mahindra World City,Flat,2 BHK,610 sqft,Unfurnish,Old Property,Ready to Move,,₹ 34 Lac
+Chennai,Oragadam Sriperumbudur,Flat,3 BHK,1150 sqft,Furnish,New Property,Ready to Move,₹ 4782 per sqft,₹ 55 Lac
+Chennai,Padapai,Flat,1 BHK,748 sqft,Furnish,Old Property,Ready to Move,₹ 4144 per sqft,₹ 31 Lac
+Chennai,Santhosapuram Medavakkam,Flat,3 BHK,1300 sqft,Unfurnish,Old Property,Ready to Move,₹ 6154 per sqft,₹ 80 Lac
+Chennai,Thalambur,Flat,3 BHK,1500 sqft,Furnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,Medavakkam,Flat,2 BHK,848 sqft,Unfurnish,Old Property,Ready to Move,₹ 4953 per sqft,₹ 42 Lac
+Chennai,Lingam Nagar,Flat,3 BHK,1310 sqft,Unfurnish,Old Property,Ready to Move,,₹ 53 Lac
+Chennai,Guru Swamy Nagar Pulianthope,Flat,2 BHK,738 sqft,Furnish,Old Property,Ready to Move,,₹ 38 Lac
+Chennai,Thanikachalam Nagar Ponniammanmedu,Flat,1 BHK,450 sqft,Furnish,Old Property,Ready to Move,,₹ 31 Lac
+Chennai,T Nagar,Flat,2 BHK,650 sqft,Unfurnish,Old Property,Ready to Move,,₹ 59 Lac
+Chennai,Triplicane,Flat,2 BHK,,Furnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,Kelambakkam Old Mahabalipuram Road,Flat,3 BHK,850 sqft,Furnish,Old Property,Ready to Move,,₹ 42 Lac
+Chennai,Koyambedu,Flat,3 BHK,1320 sqft,Unfurnish,New Property,Possession by Jan '22,₹ 9090 per sqft,₹ 1.20 Cr
+Chennai,inPudupakkam,Villa,3 BHK,1727 sqft,Unfurnish,New Property,Ready to Move,₹ 5500 per sqft,₹ 95 Lac
+Chennai,inVengaivasal Medavakkam,Villa,2 BHK,1020 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.14 Cr
+Chennai,inSholinganallur,Villa,2 BHK,1050 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.40 Cr
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,2 BHK,1270 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 6259 per sqft,₹ 79.5 Lac
+Chennai,inPerumbakkam,Villa,4 BHK,1884 sqft,Unfurnish,New Property,Possession by Dec '22,₹ 6369 per sqft,₹ 1.20 Cr
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,4 BHK,1866 sqft,Unfurnish,New Property,Ready to Move,₹ 6162 per sqft,₹ 1.15 Cr
+Chennai,inPorur,Villa,3 BHK,1508 sqft,Unfurnish,New Property,Ready to Move,₹ 5999 per sqft,₹ 90.5 Lac
+Chennai,inTambaram East,Villa,3 BHK,1200 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 55 Lac
+Chennai,inIndrapriyadarshini Nagar,Villa,2 BHK,355 sqft,Furnish,New Property,Ready to Move,,₹ 50.1 Lac
+Chennai,inGerugambakkam Chennai Bypass Road,Villa,3 BHK,1250 sqft,Furnish,Old Property,Ready to Move,₹ 4400 per sqft,₹ 55 Lac
+Chennai,inChettipunyam,Villa,3 BHK,1074 sqft,Furnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,inMambakkam,Villa,2 BHK,1100 sqft,Unfurnish,New Property,Possession by Sep '22,,₹ 75 Lac
+Chennai,inVeppampattu Chennai Tiruttani Highway,Villa,2 BHK,1200 sqft,Unfurnish,New Property,Possession by Jan '22,,₹ 34 Lac
+Chennai,inVengaivasal Medavakkam,Villa,2 BHK,1010 sqft,Unfurnish,New Property,Possession by Feb '22,,₹ 1.14 Cr
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3 BHK,1333 sqft,Unfurnish,New Property,Ready to Move,,₹ 96 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,4 BHK,1896 sqft,Unfurnish,New Property,Ready to Move,₹ 7013 per sqft,₹ 1.39 Cr
+Chennai,inKanathur,Villa,3 BHK,1767 sqft,Furnish,Old Property,Ready to Move,₹ 6395 per sqft,₹ 1.13 Cr
+Chennai,inSiruseri,Villa,3 BHK,1545 sqft,Unfurnish,New Property,Ready to Move,₹ 4854 per sqft,₹ 75 Lac
+Chennai,inKovur,Villa,5 BHK,1813 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.20 Cr
+Chennai,inCBI Colony,Villa,3 BHK,2000 sqft,Unfurnish,New Property,Possession by Jan '22,₹ 5750 per sqft,₹ 1.15 Cr
+Chennai,inUrapakkam Vandalur R F GST Road,Villa,2 BHK,757 sqft,Unfurnish,New Property,Ready to Move,,₹ 31 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3 BHK,1376 sqft,Unfurnish,New Property,Ready to Move,₹ 5806 per sqft,₹ 79.9 Lac
+Chennai,inThirumudivakkam,Villa,3 BHK,890 sqft,Unfurnish,New Property,Possession by Feb '22,,₹ 75 Lac
+Chennai,inPadapai,Villa,2 BHK,800 sqft,Unfurnish,New Property,Possession by Mar '22,₹ 4687 per sqft,₹ 37.5 Lac
+Chennai,inVettuvankeni,Villa,3 BHK,1678 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.49 Cr
+Chennai,inAgaramthen,Villa,3 BHK,1061 sqft,Unfurnish,New Property,Ready to Move,,₹ 70 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3 BHK,1376 sqft,Unfurnish,New Property,Ready to Move,₹ 6250 per sqft,₹ 86 Lac
+Chennai,inPonneri,Villa,2 BHK,766 sqft,Unfurnish,Old Property,Ready to Move,,₹ 29 Lac
+Chennai,inNavalur,Villa,2 BHK,1050 sqft,Unfurnish,New Property,Possession by Feb '22,₹ 5714 per sqft,₹ 60 Lac
+Chennai,inTambaram East,Villa,3 BHK,705 sqft,Unfurnish,New Property,Possession by Oct '22,,₹ 1.02 Cr
+Chennai,inChromepet GST Road,Villa,3 BHK,1110 sqft,Unfurnish,New Property,Possession by Jan '22,₹ 7445 per sqft,₹ 82.7 Lac
+Chennai,inSanthosapuram Medavakkam,Villa,3 BHK,1570 sqft,Unfurnish,New Property,Possession by Feb '22,₹ 6305 per sqft,₹ 99 Lac
+Chennai,inAmbattur,,3 BHK,1300 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 80 Lac
+Chennai,inVandalur,,2 BHK,900 sqft,Furnish,Old Property,Ready to Move,,₹ 60 Lac
+Chennai,inGerugambakkam Chennai Bypass Road,Villa,3 BHK,1300 sqft,Unfurnish,Old Property,Possession by Aug '22,,₹ 70 Lac
+Chennai,inAyappakkam,Villa,2 BHK,1075 sqft,Unfurnish,New Property,Possession by Jan '22,₹ 5488 per sqft,₹ 59 Lac
+Chennai,inAvadi,Villa,2 BHK,750 sqft,Unfurnish,New Property,Possession by Jan '22,₹ 4133 per sqft,₹ 31 Lac
+Chennai,inTiruvallur,,3 BHK,1500 sqft,Furnish,Old Property,Ready to Move,₹ 3333 per sqft,₹ 50 Lac
+Chennai,inMaraimalai Nagar,Villa,2 BHK,900 sqft,Unfurnish,Old Property,Ready to Move,,₹ 50 Lac
+Chennai,inEast Coast Road,Villa,2 BHK,891 sqft,Unfurnish,Old Property,Ready to Move,,₹ 30 Lac
+Chennai,inKovalam,Villa,3 BHK,1100 sqft,Furnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,inNew Vellanur,,2 BHK,1000 sqft,Furnish,Old Property,Ready to Move,,₹ 48.5 Lac
+Chennai,inVyasarpadi,,1 BHK,420 sqft,Unfurnish,Old Property,Ready to Move,₹ 6190 per sqft,₹ 26 Lac
+Chennai,inThirumazhisai,Villa,3 BHK,650 sqft,Unfurnish,Old Property,Ready to Move,,₹ 48 Lac
+Chennai,inMangadu,Villa,3 BHK,1720 sqft,Unfurnish,Old Property,Ready to Move,₹ 4203 per sqft,₹ 95 Lac
+Chennai,inAyappakkam,,2 BHK,1400 sqft,Unfurnish,Old Property,Ready to Move,₹ 4286 per sqft,₹ 60 Lac
+Chennai,inKovalam,Villa,3 BHK,2327 sqft,Furnish,New Property,Ready to Move,,₹ 97.7 Lac
+Chennai,inPonneri,,2 BHK,840 sqft,Unfurnish,Old Property,Ready to Move,,₹ 37 Lac
+Chennai,inPadapai,Villa,2 BHK,1200 sqft,Unfurnish,Old Property,Ready to Move,₹ 2667 per sqft,₹ 32 Lac
+Chennai,inChettipunyam,,3 BHK,968 sqft,Unfurnish,Old Property,Ready to Move,₹ 4649 per sqft,₹ 45 Lac
+Chennai,inManali New Town Manali,,1 BHK,420 sqft,Furnish,Old Property,Ready to Move,,₹ 22 Lac
+Chennai,inKandigai,,3 BHK,,Unfurnish,Old Property,Ready to Move,₹ 0 per sqft,₹ 64 Lac
+Chennai,inThirunindravur,,4 BHK,2322 sqft,Unfurnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,inPonniammanmedu,,2 BHK,1338 sqft,Furnish,Old Property,Ready to Move,₹ 8221 per sqft,₹ 1.10 Cr
+Chennai,inMinjur,,3 BHK,1200 sqft,Furnish,Old Property,Ready to Move,₹ 2750 per sqft,₹ 33 Lac
+Chennai,inMogappair East,,1 BHK,365 sqft,Unfurnish,Old Property,Ready to Move,,₹ 75 Lac
+Chennai,inMambakkam,Villa,2 BHK,700 sqft,Unfurnish,Old Property,Possession by Nov '22,,₹ 46.8 Lac
+Chennai,inMangadu,,2 BHK,1000 sqft,Furnish,Old Property,Ready to Move,,₹ 52 Lac
+Chennai,inTiruvallur,,2 BHK,2400 sqft,Unfurnish,Old Property,Ready to Move,,₹ 60 Lac
+Chennai,inKumananchavadi,,2 BHK,1085 sqft,Unfurnish,New Property,Ready to Move,,₹ 55 Lac
+Chennai,inAvadi,,2 BHK,1800 sqft,Furnish,Old Property,Ready to Move,,₹ 60 Lac
+Chennai,inSithalapakkam,,3 BHK,1550 sqft,Furnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Chennai,inUrapakkam Vandalur R F GST Road,,6 BHK,3120 sqft,Furnish,Old Property,Ready to Move,,₹ 98 Lac
+Chennai,inG S T Road,Villa,3 BHK,1400 sqft,Unfurnish,Old Property,Ready to Move,₹ 4143 per sqft,₹ 58 Lac
+Chennai,inNavalur,Villa,3 BHK,917 sqft,Unfurnish,Old Property,Ready to Move,,₹ 95 Lac
+Chennai,inKayarambedu,,2 BHK,810 sqft,Unfurnish,Old Property,Ready to Move,,₹ 42 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,,3 BHK,1612 sqft,Unfurnish,Old Property,Ready to Move,₹ 4652 per sqft,₹ 75 Lac
+Chennai,inGerugambakkam Chennai Bypass Road,,3 BHK,1360 sqft,Furnish,Old Property,Ready to Move,,₹ 70 Lac
+Chennai,inOld Washermanpet,,4 BHK,1800 sqft,Furnish,Old Property,Ready to Move,,₹ 1.40 Cr
+Chennai,inMudichur Road,,3 BHK,1078 sqft,Furnish,New Property,Ready to Move,,₹ 1.20 Cr
+Chennai,inAvvai Nagar,,7 BHK,2000 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Chennai,inGerugambakkam Chennai Bypass Road,,2 BHK,1300 sqft,Furnish,Old Property,Ready to Move,,₹ 90 Lac
+Chennai,inVeppampattu Chennai Tiruttani Highway,,2 BHK,900 sqft,Unfurnish,Old Property,Ready to Move,,₹ 32 Lac
+Chennai,inKovilpathagai,,2 BHK,525 sqft,Unfurnish,Old Property,Ready to Move,,₹ 42.5 Lac
+Chennai,inPonmar,,3 BHK,2100 sqft,Furnish,Old Property,Ready to Move,,₹ 95 Lac
+Chennai,inKolapakkam,Villa,1 BHK,630 sqft,Unfurnish,Old Property,Ready to Move,,₹ 80 Lac
+Chennai,inNanmangalam,,5 BHK,2000 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1 Cr
+Chennai,inVanagaram,Villa,3 BHK,1700 sqft,Furnish,New Property,Ready to Move,₹ 5876 per sqft,₹ 99.9 Lac
+Chennai,inAgaram Perambur,,3 BHK,1250 sqft,Unfurnish,Old Property,Ready to Move,₹ 9200 per sqft,₹ 1.15 Cr
+Chennai,inKondavakkam,Villa,3 BHK,2300 sqft,Unfurnish,Old Property,Ready to Move,₹ 2826 per sqft,₹ 65 Lac
+Chennai,inNandivaram Guduvancheri,Villa,3 BHK,2050 sqft,Unfurnish,Old Property,Ready to Move,₹ 3268 per sqft,₹ 67 Lac
+Chennai,inMaraimalai Nagar,Villa,3 BHK,1430 sqft,Furnish,Old Property,Ready to Move,₹ 4055 per sqft,₹ 58 Lac
+Chennai,inThaiyur,Villa,3 BHK,1000 sqft,Unfurnish,Old Property,Ready to Move,,₹ 28.5 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3 BHK,1127 sqft,Unfurnish,New Property,Ready to Move,,₹ 86 Lac
+Chennai,inMugalivakkam,,2 BHK,150 sqft,Furnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,inTambaram West Tambaram Chennai Bypass Road,Villa,2 BHK,1250 sqft,Unfurnish,New Property,Ready to Move,,₹ 72 Lac
+Chennai,inEast Coast Road,Villa,3 BHK,1800 sqft,Furnish,Old Property,Ready to Move,₹ 5277 per sqft,₹ 95 Lac
+Chennai,inVeppampattu Chennai Tiruttani Highway,Villa,2 BHK,850 sqft,Furnish,New Property,Ready to Move,,₹ 29 Lac
+Chennai,inKodungaiyur,,5 BHK,1900 sqft,Unfurnish,Old Property,Ready to Move,,₹ 75 Lac
+Chennai,inPadapai,,1 BHK,330 sqft,Unfurnish,New Property,Ready to Move,,₹ 16.2 Lac
+Chennai,inVijayalakshmi Nagar Porur,Villa,3 BHK,840 sqft,Furnish,New Property,Possession by Mar '22,,₹ 75 Lac
+Chennai,inTiruvallur,Villa,2 BHK,800 sqft,Unfurnish,Old Property,Ready to Move,,₹ 29 Lac
+Chennai,inThazhambur,Villa,3 BHK,1316 sqft,Unfurnish,New Property,Ready to Move,,₹ 82 Lac
+Chennai,inVeppampattu Chennai Tiruttani Highway,,2 BHK,680 sqft,Furnish,New Property,Ready to Move,,₹ 32 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,2 BHK,850 sqft,Unfurnish,Old Property,Possession by Aug '22,,₹ 52 Lac
+Chennai,inPozhichalur,,2 BHK,2625 sqft,Unfurnish,Old Property,Ready to Move,₹ 4762 per sqft,₹ 1.25 Cr
+Chennai,inPerungalathur Chennai Bypass Road,Villa,2 BHK,800 sqft,Unfurnish,Old Property,Possession by Feb '22,,₹ 58.9 Lac
+Chennai,inVeppampattu Chennai Tiruttani Highway,,2 BHK,680 sqft,Furnish,New Property,Ready to Move,,₹ 27 Lac
+Chennai,inParuthipet,Villa,2 BHK,650 sqft,Unfurnish,New Property,Possession by Feb '22,,₹ 37 Lac
+Chennai,inRedhills,Villa,2 BHK,600 sqft,Unfurnish,Old Property,Possession by Feb '22,,₹ 33 Lac
+Chennai,inSelaiyur,Villa,3 BHK,1600 sqft,Unfurnish,New Property,Ready to Move,₹ 5438 per sqft,₹ 87 Lac
+Chennai,inPallikaranai,,3 BHK,1947 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 1.07 Cr
+Chennai,inMedavakkam,,4 BHK,2250 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Chennai,inMahabalipuram,Villa,3 BHK,750 sqft,Furnish,New Property,Ready to Move,₹ 7333 per sqft,₹ 55 Lac
+Chennai,inNandivaram Guduvancheri,Villa,3 BHK,1400 sqft,Unfurnish,New Property,Ready to Move,,₹ 65 Lac
+Chennai,inPudupakkam,Villa,3 BHK,1973 sqft,Unfurnish,New Property,Possession by Dec '21,,₹ 91.3 Lac
+Chennai,inVeppampattu Chennai Tiruttani Highway,,2 BHK,800 sqft,Furnish,New Property,Ready to Move,,₹ 28 Lac
+Chennai,inPadapai,Villa,2 BHK,1090 sqft,Unfurnish,New Property,Possession by Dec '21,₹ 3700 per sqft,₹ 40.3 Lac
+Chennai,inGuduvancheri,Villa,2 BHK,870 sqft,Unfurnish,New Property,Ready to Move,₹ 4699 per sqft,₹ 40.9 Lac
+Chennai,inPoonamalle,Villa,1 BHK,560 sqft,Unfurnish,New Property,Possession by Jun '22,₹ 5357 per sqft,₹ 30 Lac
+Chennai,inVeppampattu Chennai Tiruttani Highway,,2 BHK,1000 sqft,Furnish,New Property,Ready to Move,,₹ 31 Lac
+Chennai,inGuduvancheri,,2 BHK,700 sqft,Unfurnish,New Property,Possession by Dec '21,,₹ 42.5 Lac
+Chennai,inKolapakkam Vandalur Kelambakkam Road,Villa,4 BHK,1668 sqft,Furnish,Old Property,Ready to Move,,₹ 89 Lac
+Chennai,inChengalpet,,1 BHK,500 sqft,Furnish,New Property,Ready to Move,,₹ 20 Lac
+Chennai,inMangalapuram Jamalia,,2 BHK,661 sqft,Furnish,Old Property,Ready to Move,,₹ 44 Lac
+Chennai,inLakshmipuram Chennai Bypass Road,,2 BHK,970 sqft,Furnish,Old Property,Ready to Move,,₹ 97 Lac
+Chennai,inKundrathur Pallavaram Kundrathur Main Road,Villa,3 BHK,1430 sqft,Furnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Chennai,inKovur,Villa,2 BHK,1100 sqft,Furnish,Old Property,Ready to Move,,₹ 60 Lac
+Chennai,inPerambur,,1 BHK,540 sqft,Unfurnish,Old Property,Ready to Move,₹ 7593 per sqft,₹ 41 Lac
+Chennai,inKandigai,,3 BHK,1400 sqft,Unfurnish,Old Property,Ready to Move,,₹ 68.5 Lac
+Chennai,inSelaiyur,Villa,3 BHK,1870 sqft,Furnish,Old Property,Ready to Move,,₹ 1.05 Cr
+Chennai,inPallikaranai,,4 BHK,2300 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Chennai,inManali New Town Manali,,2 BHK,600 sqft,Unfurnish,Old Property,Ready to Move,,₹ 35 Lac
+Chennai,inalliance huming gardens,Villa,2 BHK,550 sqft,Furnish,Old Property,Ready to Move,,₹ 65 Lac
+Chennai,inKovur,,2 BHK,100 sqft,Unfurnish,Old Property,Ready to Move,,₹ 70 Lac
+Chennai,inGuduvancheri,,1 BHK,522 sqft,Furnish,Old Property,Ready to Move,,₹ 22.4 Lac
+Chennai,inGuduvancheri,,2 BHK,975 sqft,Unfurnish,New Property,Ready to Move,₹ 4103 per sqft,₹ 40 Lac
+Chennai,inGuduvancheri,Villa,3 BHK,2100 sqft,Furnish,Old Property,Ready to Move,,₹ 70 Lac
+Chennai,inGuduvancheri,Villa,2 BHK,1250 sqft,Unfurnish,Old Property,Ready to Move,₹ 4320 per sqft,₹ 54 Lac
+Chennai,inSholinganallur,,6 BHK,2100 sqft,Unfurnish,Old Property,Ready to Move,,₹ 75 Lac
+Chennai,inVandalur Kelambakkam Road,Villa,3 BHK,1200 sqft,Unfurnish,New Property,Possession by Apr '22,,₹ 40 Lac
+Chennai,inMylapore,,1 BHK,413 sqft,Unfurnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,inNandivaram Guduvancheri,,3 BHK,1365 sqft,Furnish,Old Property,Ready to Move,,₹ 45 Lac
+Chennai,inKandigai,,3 BHK,1350 sqft,Furnish,New Property,Possession by May '22,,₹ 68 Lac
+Chennai,inSemmancheri,Villa,3 BHK,1500 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.30 Cr
+Chennai,inMambakkam,Villa,2 BHK,1200 sqft,Unfurnish,New Property,Ready to Move,,₹ 64.5 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3 BHK,1588 sqft,Unfurnish,Old Property,Ready to Move,₹ 4660 per sqft,₹ 74 Lac
+Chennai,inPoonamalle,,2 BHK,540 sqft,Furnish,New Property,Ready to Move,₹ 5351 per sqft,₹ 28.9 Lac
+Chennai,inMahindra World City,Villa,3 BHK,2000 sqft,Furnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,inVanagaram,Villa,2 BHK,730 sqft,Unfurnish,Old Property,Possession by Jan '22,,₹ 65 Lac
+Chennai,inSriperumbudur,Villa,1 BHK,600 sqft,Unfurnish,Old Property,Ready to Move,,₹ 17.5 Lac
+Chennai,inEnnore,,3 BHK,1100 sqft,Unfurnish,Old Property,Ready to Move,,₹ 45 Lac
+Chennai,inMahindra World City,Villa,3 BHK,1470 sqft,Unfurnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,inNandivaram Guduvancheri,,2 BHK,2400 sqft,Furnish,Old Property,Ready to Move,₹ 2292 per sqft,₹ 55 Lac
+Chennai,inOragadam,,2 BHK,620 sqft,Furnish,Old Property,Ready to Move,₹ 4194 per sqft,₹ 26 Lac
+Chennai,inKamaraj Nagar,,2 BHK,900 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Chennai,inKattankulathur GST Road,Villa,2 BHK,550 sqft,Unfurnish,New Property,Possession by Feb '22,,₹ 24.9 Lac
+Chennai,inTiruvancheri Selaiyur,,2 BHK,950 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 60 Lac
+Chennai,inTambaram East,,4 BHK,2000 sqft,Furnish,Old Property,Ready to Move,,₹ 95 Lac
+Chennai,inMahindra World City,Villa,3 BHK,1350 sqft,Unfurnish,Old Property,Ready to Move,,₹ 52 Lac
+Chennai,inKattupakkam PH Road,Villa,3 BHK,1950 sqft,Furnish,Old Property,Ready to Move,₹ 6153 per sqft,₹ 1.20 Cr
+Chennai,inNew Perungalathur,,6 BHK,2200 sqft,Furnish,Old Property,Ready to Move,,₹ 94.5 Lac
+Chennai,inAmbattur,,2 BHK,1200 sqft,Furnish,Old Property,Ready to Move,,₹ 83 Lac
+Chennai,inMadhavaram Milk Colony,,4 BHK,988 sqft,Unfurnish,Old Property,Ready to Move,,₹ 98 Lac
+Chennai,inKovur,,2 BHK,1200 sqft,Furnish,New Property,Ready to Move,,₹ 73 Lac
+Chennai,inGerugambakkam Chennai Bypass Road,Villa,3 BHK,1250 sqft,Furnish,New Property,Ready to Move,,₹ 1.05 Cr
+Chennai,inMangadu,,3 BHK,1300 sqft,Unfurnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,inMangadu,Villa,2 BHK,800 sqft,Unfurnish,New Property,Ready to Move,,₹ 53 Lac
+Chennai,inThalambur,Villa,4 BHK,2000 sqft,Furnish,Old Property,Ready to Move,,₹ 1.15 Cr
+Chennai,inSaidapet West Saidapet,,3 BHK,800 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.30 Cr
+Chennai,inAyappakkam,,2 BHK,658 sqft,Furnish,Old Property,Ready to Move,,₹ 58 Lac
+Chennai,inThirumullaivoyal,,2 BHK,720 sqft,Unfurnish,Old Property,Ready to Move,,₹ 55 Lac
+Chennai,inKovur,,2 BHK,1250 sqft,Unfurnish,New Property,Ready to Move,,₹ 72 Lac
+Chennai,inKovur,,3 BHK,1600 sqft,Furnish,New Property,Ready to Move,₹ 4375 per sqft,₹ 70 Lac
+Chennai,inPammal,,2 BHK,695 sqft,Unfurnish,Old Property,Ready to Move,,₹ 35 Lac
+Chennai,inPeriyar Nagar Korattur Korattur,,4 BHK,1750 sqft,Furnish,Old Property,Ready to Move,,₹ 1.20 Cr
+Chennai,inPoonamalle,,2 BHK,520 sqft,Unfurnish,New Property,Ready to Move,,₹ 35 Lac
+Chennai,inKayarambedu,Villa,2 BHK,1250 sqft,Unfurnish,Old Property,Ready to Move,,₹ 42 Lac
+Chennai,inIyyappanthangal,Villa,4 BHK,1000 sqft,Furnish,New Property,Ready to Move,,₹ 1.30 Cr
+Chennai,inGuduvancheri,,3 BHK,1350 sqft,Furnish,New Property,Ready to Move,,₹ 57 Lac
+Chennai,inTriplicane,,3 BHK,380 sqft,Unfurnish,New Property,Ready to Move,,₹ 90 Lac
+Chennai,inMangadu,,3 BHK,2200 sqft,Unfurnish,New Property,Ready to Move,,₹ 89 Lac
+Chennai,inEast Coast Road,Villa,2 BHK,891 sqft,Unfurnish,Old Property,Ready to Move,,₹ 30 Lac
+Chennai,inNandanam Extension,,3 BHK,1100 sqft,Unfurnish,Old Property,Ready to Move,,₹ 95 Lac
+Chennai,inKeelkattalai,,2 BHK,1200 sqft,Unfurnish,Old Property,Ready to Move,,₹ 85 Lac
+Chennai,inKelambakkam Old Mahabalipuram Road,Villa,3 BHK,2000 sqft,Unfurnish,Old Property,Ready to Move,₹ 3500 per sqft,₹ 70 Lac
+Chennai,inThirumullaivoyal,,8 BHK,1200 sqft,Furnish,Old Property,Ready to Move,₹ 9167 per sqft,₹ 1.10 Cr
+Chennai,inKodungaiyur,,4 BHK,1290 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.30 Cr
+Chennai,inThalambur,,1 BHK,150 sqft,Unfurnish,New Property,Ready to Move,,₹ 23.5 Lac
+Chennai,inRedhills,Villa,3 BHK,1000 sqft,Unfurnish,New Property,Ready to Move,,₹ 32 Lac
+Chennai,inRevathipuram,Villa,2 BHK,150 sqft,Furnish,New Property,Ready to Move,,₹ 43.2 Lac
+Mumbai,Barcelona in Mira Road East,Flat,2 BHK,506 sqft,Unfurnish,New Property,Possession by Jun '25,,₹ 1.05 Cr
+Mumbai,Vasanthi in Mulund East,Flat,2 BHK,547 sqft,Unfurnish,New Property,Possession by Jun '22,,₹ 1.49 Cr
+Mumbai,Towers and Plaza in Chandivali,Flat,1 BHK,366 sqft,Unfurnish,New Property,Possession by Jun '26,,₹ 100 Lac
+Mumbai,Revanta in Mulund West,Flat,2 BHK,585 sqft,Unfurnish,New Property,Possession by Mar '26,,₹ 1.51 Cr
+Mumbai,Satyam in Malad East,Flat,1 BHK,412 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 1 Cr
+Mumbai,Midtown in Chembur,Flat,2 BHK,554 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.31 Cr
+Mumbai,Bliss in Kurla West,Flat,2 BHK,559 sqft,Unfurnish,New Property,Possession by Mar '24,,₹ 1.58 Cr
+Mumbai,Revanta in Mulund West,Flat,2 BHK,572 sqft,Unfurnish,New Property,Possession by Sep '26,,₹ 1.13 Cr
+Mumbai,Dwarka in Ghatkopar East,Flat,1 BHK,400 sqft,Unfurnish,New Property,Possession by Jun '24,,₹ 1.18 Cr
+Mumbai,Park in Bhandup West,,0 BHK,173 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 26 Lac
+Mumbai,Miracle Bay in Mahim West,Flat,1 BHK,365 sqft,Furnish,New Property,Possession by Dec '27,,₹ 1.45 Cr
+Mumbai,in Borivali East,Flat,2 BHK,620 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 1.66 Cr
+Mumbai,Hills in Dahisar East,Flat,2 BHK,623 sqft,Unfurnish,New Property,Possession by Dec '26,,₹ 1.29 Cr
+Mumbai,Heritage in Crawford Market,Flat,1 BHK,388 sqft,Unfurnish,New Property,Possession by Apr '24,,₹ 1.40 Cr
+Mumbai,Barcelona in Mira Road East,Flat,1 BHK,330 sqft,Unfurnish,New Property,Possession by Jun '25,,₹ 68 Lac
+Mumbai,in Andheri West,,0 BHK,250 sqft,Unfurnish,New Property,Possession by Dec '21,,₹ 70.5 Lac
+Mumbai,in Bhandup East,Flat,1 BHK,361 sqft,Unfurnish,New Property,Possession by Mar '24,,₹ 75 Lac
+Mumbai,Crest in Malad West,Flat,1 BHK,377 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 87 Lac
+Mumbai,Elitus in Mulund West,Flat,2 BHK,802 sqft,Unfurnish,New Property,Possession by Mar '26,,₹ 1.80 Cr
+Mumbai,Maple in Goregaon East,,0 BHK,215 sqft,Unfurnish,New Property,Possession by Dec '26,,₹ 53 Lac
+Mumbai,Avenue in Vikhroli East,Flat,1 BHK,386 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 67.5 Lac
+Mumbai,Sanctuary in Mulund West,Flat,2 BHK,690 sqft,Furnish,New Property,Possession by Jun '24,,₹ 1.48 Cr
+Mumbai,Pinnacle in Mulund West,Flat,2 BHK,606 sqft,Unfurnish,New Property,Possession by Jun '26,,₹ 1.30 Cr
+Mumbai,in Mira Road,Flat,1 BHK,458 sqft,Unfurnish,New Property,Possession by Apr '22,,₹ 67.4 Lac
+Mumbai,in Mira Road,Flat,2 BHK,711 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 86 Lac
+Mumbai,Samarpan in Kandivali West,Flat,2 BHK,643 sqft,Unfurnish,New Property,Possession by Jun '22,,₹ 1.64 Cr
+Mumbai,Residency in Kurla East,Flat,2 BHK,563 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 1.26 Cr
+Mumbai,in Andheri West,Flat,1 BHK,426 sqft,Unfurnish,New Property,Possession by Feb '24,,₹ 1.38 Cr
+Mumbai,Earth in Kanjurmarg East,Flat,1 BHK,466 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.21 Cr
+Mumbai,House in Goregaon East,Flat,2 BHK,593 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 1.36 Cr
+Mumbai,Virar in Virar,Flat,1 BHK,399 sqft,Unfurnish,New Property,Ready to Move,,₹ 33.9 Lac
+Mumbai,Aarna in Chembur,Flat,1 BHK,383 sqft,Furnish,New Property,Possession by Dec '22,,₹ 1.05 Cr
+Mumbai,Tower in Vasai East,Flat,1 BHK,358 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 31.5 Lac
+Mumbai,Arya in Ghatkopar West,Flat,1 BHK,443 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 1.08 Cr
+Mumbai,Baria Everest in Virar West,Flat,1 BHK,451 sqft,Unfurnish,New Property,Ready to Move,₹ 8869 per sqft,₹ 40 Lac
+Mumbai,Gardens in Bhandup West,Flat,1 BHK,498 sqft,Unfurnish,New Property,Ready to Move,,₹ 99 Lac
+Mumbai,The Park in Worli,Flat,2 BHK,890 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.2 Lac
+Mumbai,Heritage 2 in Jogeshwari East,Flat,2 BHK,598 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 1.43 Cr
+Mumbai,Woods in Kandivali East,Flat,2 BHK,719 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.69 Cr
+Mumbai,Amara in Kurla East,Flat,3 BHK,750 sqft,Unfurnish,New Property,Possession by Jul '23,,₹ 1.95 Cr
+Mumbai,in Bhandup West,,0 BHK,326 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 75 Lac
+Mumbai,in Kandivali East,Flat,1 BHK,400 sqft,Furnish,New Property,Possession by Jun '24,,₹ 95 Lac
+Mumbai,Senterio in Tilak Nagar Harbour Line,Flat,1 BHK,440 sqft,Furnish,New Property,Possession by Oct '22,,₹ 1.15 Cr
+Mumbai,Limited Edition in Mulund East,Flat,2 BHK,750 sqft,Unfurnish,New Property,Possession by Oct '24,,₹ 1.77 Cr
+Mumbai,Montana in Mulund West,Flat,2 BHK,574 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.61 Cr
+Mumbai,Pinnacle in Mulund West,Flat,2 BHK,612 sqft,Furnish,New Property,Possession by Dec '24,,₹ 1.32 Cr
+Mumbai,Millennia in Parel,Flat,1 BHK,411 sqft,Furnish,New Property,Possession by Dec '24,,₹ 1.39 Cr
+Mumbai,Revanta in Mulund West,Flat,2 BHK,625 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 1.45 Cr
+Mumbai,Woods in Kandivali East,Flat,2 BHK,719 sqft,Furnish,New Property,Possession by Dec '23,,₹ 1.70 Cr
+Mumbai,Millennia in Parel,Flat,1 BHK,410 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.11 Cr
+Mumbai,Neo Park in Bhandup West,Flat,1 BHK,285 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 48 Lac
+Mumbai,Vishnu Phase I in Dahisar East,Flat,1 BHK,394 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 65.1 Lac
+Mumbai,Residency Phase 1 in Jogeshwari East,Flat,1 BHK,435 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 82 Lac
+Mumbai,O2 in Mulund West,Flat,3 BHK,771 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 1.84 Cr
+Mumbai,Pinnacle in Mulund West,Flat,1 BHK,457 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 99 Lac
+Mumbai,in Andheri East,Flat,2 BHK,858 sqft,Unfurnish,New Property,Possession by Mar '24,,₹ 1.90 Cr
+Mumbai,53 West in Andheri West,Flat,1 BHK,455 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.39 Cr
+Mumbai,Stone in Vikhroli East,Flat,1 BHK,393 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 75.2 Lac
+Mumbai,IC Colony,Flat,2 BHK,700 sqft,Furnish,New Property,Possession by Dec '24,,₹ 1.60 Cr
+Mumbai,Society in Mulund West,Flat,2 BHK,700 sqft,Furnish,Old Property,Ready to Move,,₹ 1.55 Cr
+Mumbai,North in Mira Road East,Flat,1 BHK,450 sqft,Unfurnish,New Property,Ready to Move,,₹ 65 Lac
+Mumbai,Florenza in Pleasant Park,Flat,1 BHK,442 sqft,Furnish,New Property,Ready to Move,,₹ 68.3 Lac
+Mumbai,Vihar in Powai,Flat,2 BHK,640 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.60 Cr
+Mumbai,Nagar,,0 BHK,180 sqft,Furnish,Old Property,Ready to Move,,₹ 36 Lac
+Mumbai,Premier in Mira Road East,Flat,2 BHK,680 sqft,Furnish,New Property,Ready to Move,,₹ 78 Lac
+Mumbai,in Vinay Nagar,Flat,2 BHK,575 sqft,Furnish,New Property,Possession by Apr '22,,₹ 83.5 Lac
+Mumbai,Clarion in Thakur Village Kandivali East,FlatVilla,2 BHK,640 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.70 Cr
+Mumbai,Hot Cake in Vinay Nagar,Flat,1 BHK,405 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 53.5 Lac
+Mumbai,Diamond Hill in Chandan Shanti,Flat,2 BHK,620 sqft,Furnish,New Property,Possession by Jun '22,,₹ 84.6 Lac
+Mumbai,Highpark in Kashimira,Flat,1 BHK,492 sqft,Furnish,New Property,Possession by Dec '23,,₹ 67 Lac
+Mumbai,Mulund East,Flat,2 BHK,700 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.60 Cr
+Mumbai,Hillcrest in Mira Road East,Flat,2 BHK,650 sqft,Furnish,New Property,Ready to Move,,₹ 76 Lac
+Mumbai,Mira Bhayandar,Flat,2 BHK,615 sqft,Unfurnish,New Property,Ready to Move,,₹ 88 Lac
+Mumbai,Ecocity in Mira Road,Flat,2 BHK,685 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 98 Lac
+Mumbai,Orlem,Flat,2 BHK,,Furnish,New Property,Ready to Move,,₹ 1.69 Cr
+Mumbai,Heights in Beverly Park,Flat,3 BHK,947 sqft,Unfurnish,New Property,Ready to Move,,₹ 99 Lac
+Mumbai,Forests in Kanjurmarg West,Flat,2 BHK,661 sqft,Furnish,New Property,Ready to Move,,₹ 1.60 Cr
+Mumbai,Mulund East,Flat,1 BHK,480 sqft,Furnish,Old Property,Ready to Move,,₹ 1.15 Cr
+Mumbai,Isle in Central Area,Flat,2 BHK,635 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.92 Cr
+Mumbai,Powai,Flat,2 BHK,750 sqft,Furnish,Old Property,Ready to Move,,₹ 1.55 Cr
+Mumbai,Borivali West,Flat,1 BHK,400 sqft,Unfurnish,Old Property,Ready to Move,,₹ 95 Lac
+Mumbai,Thane Kalyan Dombivli,Flat,2 BHK,650 sqft,Unfurnish,Old Property,Ready to Move,,₹ 59 Lac
+Mumbai,Evening Glory in Chandivali,Flat,1 BHK,385 sqft,Furnish,Old Property,Ready to Move,,₹ 1.05 Cr
+Mumbai,Shashwat in Mira Bhayandar,Flat,1 BHK,450 sqft,Unfurnish,New Property,Ready to Move,,₹ 65 Lac
+Mumbai,Ariso Apartment in Chembur,Flat,2 BHK,712 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.85 Cr
+Mumbai,Lokhandwala Complex,Flat,1 BHK,450 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.28 Cr
+Mumbai,in Ketki Pada,Flat,2 BHK,537 sqft,Furnish,New Property,Possession by Dec '23,,₹ 95 Lac
+Mumbai,Now Or Never in Vinay Nagar,Flat,1 BHK,302 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 47 Lac
+Mumbai,Vinay Nagar,Flat,1 BHK,360 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 55 Lac
+Mumbai,North Alexa in Mira Road,Flat,1 BHK,476 sqft,Furnish,New Property,Possession by Dec '22,,₹ 56 Lac
+Mumbai,Hot Cake in Vinay Nagar,Flat,1 BHK,405 sqft,Furnish,New Property,Possession by Dec '22,,₹ 54 Lac
+Mumbai,Oasis in Kashimira,Flat,1 BHK,540 sqft,Furnish,New Property,Possession by Dec '25,,₹ 58 Lac
+Mumbai,Diamond Hill in Beverly Park,Flat,1 BHK,440 sqft,Furnish,New Property,Possession by Mar '23,,₹ 55.2 Lac
+Mumbai,Florenza in Beverly Park,Flat,2 BHK,669 sqft,Furnish,New Property,Possession by Dec '22,,₹ 98.9 Lac
+Mumbai,Tilak Nagar Harbour Line,Flat,2 BHK,622 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.52 Cr
+Mumbai,Pinnacle in Mulund West,Flat,1 BHK,457 sqft,Unfurnish,New Property,Possession by Dec '26,₹ 21663 per sqft,₹ 99 Lac
+Mumbai,Gardenia in Naigaon East,Flat,2 BHK,700 sqft,Furnish,Old Property,Ready to Move,,₹ 43.7 Lac
+Mumbai,Akshay in Mira Road East,Flat,2 BHK,650 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 79.1 Lac
+Mumbai,ORO 67 in Ekta Nagar Charkop,Flat,1 BHK,417 sqft,Unfurnish,New Property,Possession by Apr '24,,₹ 88 Lac
+Mumbai,Legacy in Ramdev Park,Flat,1 BHK,470 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 57.5 Lac
+Mumbai,Residency in Vinay Nagar,Flat,1 BHK,531 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 63 Lac
+Mumbai,Pant Nagar,Flat,2 BHK,650 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 1.67 Cr
+Mumbai,North in Mira Road,Flat,2 BHK,640 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 87 Lac
+Mumbai,Highpark in Mira Road,Flat,1 BHK,405 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 65 Lac
+Mumbai,in Vinay Nagar,Flat,2 BHK,535 sqft,Furnish,New Property,Possession by Mar '22,,₹ 78 Lac
+Mumbai,Samarpan in Magathane,Flat,2 BHK,730 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.65 Cr
+Mumbai,Suburbia in Chembur,Flat,2 BHK,706 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.87 Cr
+Mumbai,at Runwal Forest in Kanjurmarg,Flat,2 BHK,590 sqft,Unfurnish,New Property,Possession by Jun '24,,₹ 1.39 Cr
+Mumbai,Legacy in Ramdev Park,Flat,1 BHK,400 sqft,Unfurnish,New Property,Possession by Jun '22,,₹ 57 Lac
+Mumbai,Ivana in Vinay Nagar,Flat,1 BHK,380 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 59.9 Lac
+Mumbai,Virar West,Flat,1 BHK,422 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 38 Lac
+Mumbai,Bhayandar East,Flat,1 BHK,420 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 63 Lac
+Mumbai,Pooja in Mira Road East,Flat,1 BHK,411 sqft,Furnish,New Property,Possession by Mar '22,,₹ 60 Lac
+Mumbai,Ivana in Vinay Nagar,Flat,1 BHK,450 sqft,Furnish,New Property,Possession by Dec '23,,₹ 60 Lac
+Mumbai,Bliss in Crompton Greaves,Flat,2 BHK,809 sqft,Unfurnish,New Property,Possession by Aug '22,,₹ 1.85 Cr
+Mumbai,Oasis in Vinay Nagar,Flat,2 BHK,658 sqft,Furnish,New Property,Possession by Sep '22,,₹ 80 Lac
+Mumbai,Revanta in Mulund West,Flat,2 BHK,608 sqft,Unfurnish,Old Property,Possession by Dec '25,,₹ 1.35 Cr
+Mumbai,Greenfinity in Bhakti Park,Flat,2 BHK,473 sqft,Furnish,New Property,Possession by Dec '22,,₹ 1.36 Cr
+Mumbai,Greens in Queens Park,Flat,2 BHK,813 sqft,Furnish,New Property,Possession by Dec '25,,₹ 98.6 Lac
+Mumbai,in Goregaon East,Flat,2 BHK,757 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.77 Cr
+Mumbai,Heights in Vasai East,Flat,1 BHK,446 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 35 Lac
+Mumbai,Park Estate in Yeshwant Nagar,Flat,2 BHK,605 sqft,Unfurnish,New Property,Possession by Jun '24,,₹ 1.46 Cr
+Mumbai,Ramdev Ritu Heights in Mira Road East,Flat,2 BHK,611 sqft,Furnish,New Property,Possession by Dec '22,,₹ 78 Lac
+Mumbai,Bella in Bhandup West,Flat,1 BHK,425 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.08 Cr
+Mumbai,Ecocity in Mira Road,Flat,1 BHK,455 sqft,Furnish,New Property,Possession by Dec '22,,₹ 57 Lac
+Mumbai,Ecocity in Kashimira,Flat,1 BHK,448 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 67 Lac
+Mumbai,Eastern Bay in Wadala East,Flat,2 BHK,686 sqft,Unfurnish,New Property,Possession by Mar '24,,₹ 1.70 Cr
+Mumbai,Riviera in Hiranandani Gardens,Flat,2 BHK,705 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 1.75 Cr
+Mumbai,Heights in Mulund East,Flat,2 BHK,610 sqft,Furnish,Old Property,Ready to Move,,₹ 1.60 Cr
+Mumbai,Chembur East,Flat,1 BHK,385 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 94 Lac
+Mumbai,Siddhi in Mira Road,Flat,2 BHK,594 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 76 Lac
+Mumbai,Mahatama Gandhi Road,Flat,1 BHK,440 sqft,Unfurnish,New Property,Ready to Move,,₹ 92 Lac
+Mumbai,Exotica in Mira Road,Flat,1 BHK,547 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 59 Lac
+Mumbai,Living in Rawal Pada,Flat,2 BHK,582 sqft,Furnish,New Property,Possession by Mar '25,,₹ 83 Lac
+Mumbai,Vinay Nagar,Flat,1 BHK,390 sqft,Unfurnish,New Property,Possession by Mar '23,,₹ 54.9 Lac
+Mumbai,Highpark in Mahajan Wadi,Flat,2 BHK,605 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 87.5 Lac
+Mumbai,North Euphoria in Vinay Nagar,Flat,3 BHK,950 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 1.25 Cr
+Mumbai,Arya in Ghatkopar West,Flat,1 BHK,443 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 1.03 Cr
+Mumbai,Hot Cake in Mira Road,Flat,1 BHK,400 sqft,Unfurnish,New Property,Possession by Mar '23,,₹ 59 Lac
+Mumbai,Tara in Kandivali West,Flat,3 BHK,835 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.85 Cr
+Mumbai,Basant Park,Flat,2 BHK,573 sqft,Furnish,New Property,Possession by Dec '23,,₹ 1.60 Cr
+Mumbai,Heights Annex in Vasai East,Flat,1 BHK,444 sqft,Unfurnish,New Property,Possession by Jun '24,,₹ 36.5 Lac
+Mumbai,Highpark in Mira Road East,Flat,1 BHK,405 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 61 Lac
+Mumbai,Morya in Chembur,Flat,1 BHK,477 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 1.37 Cr
+Mumbai,Barcelona in Mira Road East,Flat,2 BHK,656 sqft,Furnish,New Property,Possession by Dec '22,,₹ 99.8 Lac
+Mumbai,Gardenia in Mira Road,Flat,2 BHK,690 sqft,Furnish,New Property,Ready to Move,,₹ 93 Lac
+Mumbai,XL in Dhanukar Wadi,Flat,2 BHK,820 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.27 Cr
+Mumbai,Nova in Bhoiwada,Flat,1 BHK,374 sqft,Unfurnish,New Property,Possession by Jun '22,,₹ 1.15 Cr
+Mumbai,Zen World in Kanjurmarg East,Flat,2 BHK,750 sqft,Furnish,New Property,Possession by Nov '22,,₹ 1.54 Cr
+Mumbai,360 in Mulund West,Flat,2 BHK,750 sqft,Unfurnish,New Property,Possession by Jun '25,,₹ 1.71 Cr
+Mumbai,Residency in Kurla East,Flat,1 BHK,466 sqft,Furnish,Old Property,Ready to Move,,₹ 95 Lac
+Mumbai,Vakola,Flat,2 BHK,620 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.65 Cr
+Mumbai,Revanta in Mulund West,Flat,2 BHK,617 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.30 Cr
+Mumbai,Highpark in Mahajan Wadi,Flat,1 BHK,425 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 60 Lac
+Mumbai,at Runwal Forests in Kanjurmarg West,Flat,2 BHK,465 sqft,Furnish,New Property,Possession by Apr '23,,₹ 1.06 Cr
+Mumbai,Codename Open Streets in Vinay Nagar,Flat,1 BHK,470 sqft,Furnish,New Property,Possession by Jun '23,,₹ 59.5 Lac
+Mumbai,Woods in Kandivali East,Flat,2 BHK,719 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.74 Cr
+Mumbai,Virar West,Flat,2 BHK,512 sqft,Furnish,New Property,Possession by Dec '22,,₹ 44 Lac
+Mumbai,Ecocity in Mira Road East,Flat,1 BHK,522 sqft,Furnish,New Property,Possession by Dec '22,,₹ 69 Lac
+Mumbai,Harmony in Matunga East,Flat,2 BHK,486 sqft,Unfurnish,New Property,Possession by Nov '23,,₹ 1.69 Cr
+Mumbai,Park in Malad West,Flat,2 BHK,644 sqft,Furnish,New Property,Possession by Dec '24,,₹ 1.49 Cr
+Mumbai,Bliss in Kurla West,Flat,1 BHK,320 sqft,Unfurnish,New Property,Possession by Jan '23,,₹ 89 Lac
+Mumbai,Aspire in Malad West,Flat,1 BHK,442 sqft,Unfurnish,Old Property,Possession by May '22,,₹ 1 Cr
+Mumbai,Dwarka in Ghatkopar East,Flat,1 BHK,351 sqft,Unfurnish,New Property,Possession by Jun '22,,₹ 89.5 Lac
+Mumbai,Lagoon in Jankalyan Nagar,Flat,2 BHK,700 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.61 Cr
+Mumbai,Radha Complex in Bhandup West,Flat,2 BHK,630 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Mumbai,Sindhi Society Chembur,Flat,1 BHK,355 sqft,Furnish,New Property,Possession by Jun '25,,₹ 85 Lac
+Mumbai,CHS in Kannamwar Nagar 2,Flat,1 BHK,390 sqft,Furnish,New Property,Possession by Jan '23,,₹ 65 Lac
+Mumbai,Empress in Borivali West,Flat,1 BHK,417 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 89 Lac
+Mumbai,Link Road,Flat,1 BHK,333 sqft,Unfurnish,New Property,Possession by May '22,,₹ 65 Lac
+Mumbai,Bliss in Crompton Greaves,Flat,2 BHK,809 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 1.74 Cr
+Mumbai,Square in Bhandup West,,0 BHK,172 sqft,Unfurnish,New Property,Possession by Jun '23,,₹ 34 Lac
+Mumbai,Bliss in Kanjurmarg East,Flat,2 BHK,687 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 1.59 Cr
+Mumbai,Wadala East,Flat,1 BHK,429 sqft,Furnish,Old Property,Ready to Move,,₹ 1.35 Cr
+Mumbai,Chembur,Flat,1 BHK,608 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.15 Cr
+Mumbai,Avenue in Kanjurmarg East,Flat,3 BHK,800 sqft,Furnish,New Property,Possession by Dec '24,,₹ 1.95 Cr
+Mumbai,Kaatyayni Heights in Andheri East,Flat,1 BHK,412 sqft,Unfurnish,New Property,Possession by Mar '22,,₹ 1.26 Cr
+Mumbai,Ghatkopar East,Flat,2 BHK,572 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 1.37 Cr
+Mumbai,Kandivali West,Flat,2 BHK,650 sqft,Furnish,Old Property,Possession by Dec '25,,₹ 1.34 Cr
+Mumbai,Revanta in Mulund West,Flat,2 BHK,619 sqft,Furnish,New Property,Possession by Sep '25,,₹ 1.47 Cr
+Mumbai,Patil Breeze in Dahisar,Flat,1 BHK,440 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 95 Lac
+Mumbai,Akshay in Pleasant Park,Flat,1 BHK,400 sqft,Furnish,New Property,Possession by Jun '22,,₹ 58.5 Lac
+Mumbai,Ivana in Mira Road,Flat,1 BHK,740 sqft,Unfurnish,New Property,Possession by Jun '23,₹ 8783 per sqft,₹ 65 Lac
+Mumbai,Heights in Vasai East,Flat,1 BHK,464 sqft,Unfurnish,New Property,Possession by Apr '23,,₹ 36.5 Lac
+Mumbai,Chandivali,Flat,1 BHK,450 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.15 Cr
+Mumbai,in Thakur Village Kandivali East,FlatVilla,2 BHK,600 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.45 Cr
+Mumbai,Thakur Complex,Flat,2 BHK,615 sqft,Furnish,New Property,Possession by Nov '22,,₹ 1.18 Cr
+Mumbai,Senterio in Shell Colony,Flat,1 BHK,440 sqft,Furnish,New Property,Possession by Jun '22,,₹ 1.10 Cr
+Mumbai,Forests in Kanjurmarg West,Flat,1 BHK,433 sqft,Unfurnish,New Property,Possession by Jul '22,,₹ 1.05 Cr
+Mumbai,Mulund West,Flat,1 BHK,495 sqft,Furnish,Old Property,Ready to Move,,₹ 1.05 Cr
+Mumbai,Shanti in Y K Nagar,Flat,1 BHK,490 sqft,Unfurnish,New Property,Possession by Sep '24,,₹ 39 Lac
+Mumbai,Magathane,Flat,2 BHK,650 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.55 Cr
+Mumbai,Alcove in Chandivali,Flat,2 BHK,744 sqft,Unfurnish,New Property,Possession by Dec '24,,₹ 1.63 Cr
+Mumbai,Now Or Never in Vinay Nagar,Flat,1 BHK,360 sqft,Unfurnish,New Property,Possession by Dec '22,,₹ 47 Lac
+Mumbai,53 West in Andheri West,Flat,1 BHK,420 sqft,Unfurnish,New Property,Possession by Dec '25,,₹ 1.36 Cr
+Mumbai,inPiramal Revanta Mulund West,,2 BHK,770 sqft,Unfurnish,Old Property,Possession by Jun '22,,₹ 1.55 Cr
+Mumbai,inNakshatra Aarambh Naigaon East,,1 BHK,404 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 32.2 Lac
+Mumbai,inChikhal Dongari,Villa,4 BHK,1700 sqft,Furnish,New Property,Possession by May '22,,₹ 85 Lac
+Mumbai,inMhatre Wadi,,2 BHK,483 sqft,Unfurnish,New Property,Possession by Dec '23,,₹ 1.01 Cr
+Mumbai,inMira Road East,,2 BHK,650 sqft,Unfurnish,New Property,Possession by Aug '23,,₹ 78 Lac
+Mumbai,inOmkar Vive Kurla West,,1 BHK,410 sqft,Furnish,New Property,Ready to Move,,₹ 1.12 Cr
+Mumbai,inRoyal Pristo Malad East,,1 BHK,323 sqft,Unfurnish,New Property,Possession by Jun '24,,₹ 55 Lac
+Mumbai,inBhandup West,,1 BHK,220 sqft,Unfurnish,Old Property,Ready to Move,,₹ 40 Lac
+Mumbai,inGhodbandar Village,VillaVilla,2 BHK,1277 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.40 Cr
+Mumbai,inTaloja,,2 BHK,640 sqft,Furnish,Old Property,Ready to Move,,₹ 55 Lac
+Mumbai,inVirat Nagar,,1 BHK,460 sqft,Furnish,Old Property,Ready to Move,,₹ 40 Lac
+Mumbai,inGirgaon,,2 BHK,520 sqft,Furnish,Old Property,Ready to Move,,₹ 1.70 Cr
+Mumbai,inBoisar West,Villa,3 BHK,1100 sqft,Furnish,Old Property,Ready to Move,,₹ 1.05 Cr
+Mumbai,inVasai West,Villa,4 BHK,1681 sqft,Furnish,Old Property,Ready to Move,,₹ 1.98 Cr
+Mumbai,inBhandup West,,1 BHK,220 sqft,Unfurnish,Old Property,Ready to Move,,₹ 40 Lac
+Mumbai,inKanjurmarg East,,1 BHK,180 sqft,Unfurnish,Old Property,Ready to Move,,₹ 32 Lac
+Mumbai,inWorli Koliwada,,2 BHK,780 sqft,Furnish,Old Property,Ready to Move,,₹ 1 Cr
+Mumbai,in4 Bunglows,,1 BHK,480 sqft,Furnish,Old Property,Ready to Move,,₹ 1.40 Cr
+Mumbai,inGorai,Villa,2 BHK,1200 sqft,Furnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Mumbai,inVasai West,,4 BHK,2775 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.80 Cr
+Mumbai,inAndheri East,,1 BHK,550 sqft,Furnish,Old Property,Ready to Move,₹ 21818 per sqft,₹ 1.20 Cr
+Mumbai,inCharkop Sector 6,Villa,3 BHK,1800 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.90 Cr
+Mumbai,inMulund West,,1 BHK,440 sqft,Unfurnish,Old Property,Ready to Move,,₹ 75 Lac
+Mumbai,inBhandup West,,2 BHK,600 sqft,Unfurnish,Old Property,Ready to Move,,₹ 41.9 Lac
+Mumbai,inGoregaon West,,2 BHK,490 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Mumbai,inMHADA Colony MHADA Colony,,1 BHK,300 sqft,Unfurnish,Old Property,Ready to Move,,₹ 62 Lac
+Mumbai,inChembur,,2 BHK,650 sqft,Furnish,New Property,Ready to Move,,₹ 1.80 Cr
+Mumbai,inPoonam Estate Cluster 2 Mira Road East,,2 BHK,620 sqft,Unfurnish,Old Property,Ready to Move,,₹ 88 Lac
+Mumbai,inBhayandar West,,1 BHK,400 sqft,Furnish,Old Property,Ready to Move,,₹ 62 Lac
+Mumbai,inVasant Oasis Phase II Marol Naka,,2 BHK,811 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.97 Cr
+Mumbai,inMahim West,,1 BHK,384 sqft,Furnish,New Property,Possession by Apr '24,,₹ 1.38 Cr
+Mumbai,inVahatuk Nagar CHS Amboli,,1 BHK,425 sqft,Furnish,Old Property,Ready to Move,,₹ 97 Lac
+Mumbai,inLaxmi Nagar,,1 BHK,235 sqft,Furnish,Old Property,Ready to Move,,₹ 59 Lac
+Mumbai,inGokuldham Complex Gokuldham,,2 BHK,5800 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Mumbai,inMaharashtra Nagar,Villa,5 BHK,1500 sqft,Unfurnish,New Property,Ready to Move,,₹ 1.75 Cr
+Mumbai,inKanjurmarg East,,1 BHK,400 sqft,Furnish,Old Property,Ready to Move,,₹ 45 Lac
+Mumbai,inAntop Hill,,1 BHK,240 sqft,Unfurnish,Old Property,Ready to Move,₹ 14583 per sqft,₹ 35 Lac
+Mumbai,inDahisar East,,1 BHK,675 sqft,Unfurnish,Old Property,Ready to Move,,₹ 45 Lac
+Mumbai,Unknown,,0 BHK,305 sqft,Unfurnish,Old Property,Ready to Move,,₹ 85 Lac
+Mumbai,inCharkop Sector 6,,2 BHK,800 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.35 Cr
+Mumbai,inGorai 1,Villa,2 BHK,700 sqft,Furnish,Old Property,Ready to Move,,₹ 1.95 Cr
+Mumbai,inLords Nahur Nahur West,,2 BHK,960 sqft,Furnish,Old Property,Ready to Move,₹ 14583 per sqft,₹ 1.40 Cr
+Mumbai,inCharkop Sector 9,,2 BHK,600 sqft,Furnish,Old Property,Ready to Move,,₹ 70 Lac
+Mumbai,inVasai East,Villa,3 BHK,985 sqft,Furnish,Old Property,Ready to Move,,₹ 1.07 Cr
+Mumbai,inBorivali West,,3 BHK,1700 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.75 Cr
+Mumbai,inCharkop Sector 2,Villa,2 BHK,500 sqft,Furnish,Old Property,Ready to Move,,₹ 72 Lac
+Mumbai,inNavagaon,,2 BHK,700 sqft,Furnish,Old Property,Ready to Move,,₹ 65 Lac
+Mumbai,inVasai West,,4 BHK,1410 sqft,Unfurnish,Old Property,Ready to Move,,₹ 99 Lac
+Mumbai,inMira Bhayandar,,2 BHK,900 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.55 Cr
+Mumbai,inVasai West,,1 BHK,450 sqft,Unfurnish,Old Property,Ready to Move,,₹ 38 Lac
+Mumbai,inKandivali West,,1 BHK,300 sqft,Unfurnish,Old Property,Ready to Move,,₹ 55 Lac
+Mumbai,inBhandup West,,1 BHK,380 sqft,Unfurnish,Old Property,Ready to Move,₹ 11053 per sqft,₹ 42 Lac
+Mumbai,inNalasopara West,Villa,3 BHK,1500 sqft,Unfurnish,New Property,Ready to Move,,₹ 70 Lac
+Mumbai,invillas,Villa,2 BHK,810 sqft,Furnish,Old Property,Ready to Move,,₹ 65 Lac
+Mumbai,invasu bai chawl,,1 BHK,250 sqft,Furnish,Old Property,Ready to Move,,₹ 30 Lac
+Mumbai,inSpanish Villa Naigaon East,VillaVilla,1 BHK,1134 sqft,Furnish,New Property,Ready to Move,,₹ 45 Lac
+Mumbai,inKandivali West,,2 BHK,600 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.50 Cr
+Mumbai,inKandivali West,,2 BHK,500 sqft,Unfurnish,Old Property,Ready to Move,₹ 12000 per sqft,₹ 60 Lac
+Mumbai,inHubtown Harmony Matunga,,2 BHK,570 sqft,Unfurnish,New Property,Possession by Apr '22,,₹ 1.80 Cr
+Mumbai,inTelephone Colony,,1 BHK,600 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1 Cr
+Mumbai,inZeal Regency Virar,,2 BHK,675 sqft,Unfurnish,New Property,Ready to Move,,₹ 42 Lac
+Mumbai,inKandivali West,,1 BHK,360 sqft,Unfurnish,Old Property,Ready to Move,,₹ 25 Lac
+Mumbai,inSpanish Villa Naigaon East,VillaVilla,2 BHK,1248 sqft,Furnish,Old Property,Ready to Move,₹ 4808 per sqft,₹ 60 Lac
+Mumbai,inMulund West,,2 BHK,400 sqft,Unfurnish,Old Property,Ready to Move,,₹ 35 Lac
+Mumbai,inDadar East,,1 BHK,210 sqft,Unfurnish,Old Property,Ready to Move,,₹ 30 Lac
+Mumbai,inGoregaon East,Villa,2 BHK,710 sqft,Furnish,Old Property,Ready to Move,,₹ 1.35 Cr
+Mumbai,inTilak Nagar Central Mumbai,,1 BHK,170 sqft,Unfurnish,Old Property,Ready to Move,,₹ 25 Lac
+Mumbai,inEkta Nagar Charkop,,1 BHK,270 sqft,Furnish,Old Property,Ready to Move,,₹ 65 Lac
+Mumbai,inCentrio Chembur East,,2 BHK,730 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.40 Cr
+Mumbai,inNaigaon East,Villa,1 BHK,1134 sqft,Unfurnish,Old Property,Ready to Move,,₹ 50 Lac
+Mumbai,inSamarth Nagar,,1 BHK,150 sqft,Unfurnish,Old Property,Ready to Move,,₹ 21 Lac
+Mumbai,inJogeshwari,,1 BHK,400 sqft,Unfurnish,Old Property,Ready to Move,₹ 12000 per sqft,₹ 48 Lac
+Mumbai,inChembur West,,1 BHK,300 sqft,Unfurnish,Old Property,Ready to Move,,₹ 23 Lac
+Mumbai,inJogeshwari East,,1 BHK,330 sqft,Furnish,Old Property,Ready to Move,,₹ 37 Lac
+Mumbai,inPalms Villas Residences Goregaon East,VillaVilla,3 BHK,2282 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.75 Cr
+Mumbai,inM B Tower Virar West,Villa,3 BHK,1400 sqft,Furnish,New Property,Ready to Move,,₹ 80 Lac
+Mumbai,inKandivali West,,2 BHK,800 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1 Cr
+Mumbai,inGovandi,,1 BHK,550 sqft,Unfurnish,Old Property,Ready to Move,₹ 5818 per sqft,₹ 32 Lac
+Mumbai,inRising City Chembur,,2 BHK,903 sqft,Furnish,Old Property,Ready to Move,₹ 17718 per sqft,₹ 1.60 Cr
+Mumbai,inStanley Paradise Mira Road,,2 BHK,935 sqft,Unfurnish,Old Property,Ready to Move,₹ 6952 per sqft,₹ 65 Lac
+Mumbai,inPowai,,1 BHK,300 sqft,Unfurnish,Old Property,Ready to Move,₹ 13333 per sqft,₹ 40 Lac
+Mumbai,inMarol Maroshi,Villa,1 BHK,350 sqft,Furnish,Old Property,Ready to Move,,₹ 43 Lac
+Mumbai,inOrange City,Villa,3 BHK,1500 sqft,Furnish,Old Property,Ready to Move,,₹ 62 Lac
+Mumbai,inBhandup West,,1 BHK,360 sqft,Furnish,Old Property,Ready to Move,₹ 9444 per sqft,₹ 34 Lac
+Mumbai,inRustomjee Meridian Charkop Sector 2,,1 BHK,450 sqft,Unfurnish,Old Property,Ready to Move,,₹ 96 Lac
+Mumbai,inDosti Estates Wadala,,1 BHK,350 sqft,Furnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Mumbai,inSion East,,1 BHK,360 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Mumbai,inSantacruz,,1 BHK,550 sqft,Furnish,Old Property,Ready to Move,,₹ 62 Lac
+Mumbai,inUlhasnagar,Villa,3 BHK,1400 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1 Cr
+Mumbai,inKalyan,,2 BHK,1200 sqft,Unfurnish,Old Property,Ready to Move,,₹ 38 Lac
+Mumbai,inGorai 1,,2 BHK,250 sqft,Furnish,Old Property,Ready to Move,,₹ 72 Lac
+Mumbai,inSatguru Rameshwar Santacruz West,,1 BHK,425 sqft,Furnish,Old Property,Ready to Move,,₹ 1.99 Cr
+Mumbai,inTirupati Balaji Nagar,,2 BHK,410 sqft,Unfurnish,Old Property,Ready to Move,,₹ 11.4 Lac
+Mumbai,inMalvani,,3 BHK,600 sqft,Unfurnish,Old Property,Ready to Move,,₹ 26 Lac
+Mumbai,inDattani Nagar,,3 BHK,450 sqft,Unfurnish,Old Property,Ready to Move,,₹ 85 Lac
+Mumbai,inAndheri East,,1 BHK,250 sqft,Unfurnish,Old Property,Ready to Move,,₹ 58 Lac
+Mumbai,inMumbra East,,2 BHK,500 sqft,Unfurnish,Old Property,Ready to Move,₹ 6000 per sqft,₹ 30 Lac
+Mumbai,inVakola,,1 BHK,478 sqft,Furnish,Old Property,Ready to Move,,₹ 1.15 Cr
+Mumbai,inVile Parle,,1 BHK,136 sqft,Unfurnish,Old Property,Ready to Move,,₹ 15 Lac
+Mumbai,inWadala East,,1 BHK,225 sqft,Unfurnish,Old Property,Ready to Move,,₹ 35 Lac
+Mumbai,inCharkop Anusaya Kandivali West,Villa,1 BHK,900 sqft,Furnish,New Property,Ready to Move,,₹ 67 Lac
+Mumbai,inMalad West,,2 BHK,850 sqft,Unfurnish,Old Property,Ready to Move,,₹ 55 Lac
+Mumbai,inTilak Shanti CHS Chembur,,2 BHK,650 sqft,Furnish,Old Property,Ready to Move,,₹ 1.40 Cr
+Mumbai,inMalad West,,1 BHK,360 sqft,Furnish,New Property,Ready to Move,,₹ 80 Lac
+Mumbai,inVasudev Heights Mulund West,,3 BHK,960 sqft,Furnish,Old Property,Ready to Move,,₹ 1.90 Cr
+Mumbai,inMHADA Sheetal Nagar,,2 BHK,900 sqft,Furnish,Old Property,Ready to Move,₹ 10778 per sqft,₹ 97 Lac
+Mumbai,inPowai,,2 BHK,450 sqft,Unfurnish,Old Property,Ready to Move,,₹ 34 Lac
+Mumbai,inKalina,,2 BHK,475 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.25 Cr
+Mumbai,inSalasar Aangan Mira Road,,2 BHK,1050 sqft,Furnish,Old Property,Ready to Move,₹ 7714 per sqft,₹ 81 Lac
+Mumbai,inBhandup West,,1 BHK,216 sqft,Unfurnish,Old Property,Ready to Move,,₹ 17 Lac
+Mumbai,inMalvani,,3 BHK,6 sqft,Furnish,Old Property,Ready to Move,,₹ 15 Lac
+Mumbai,inHill park Tower Jogeshwari West,,1 BHK,550 sqft,Furnish,Old Property,Ready to Move,₹ 20000 per sqft,₹ 1.10 Cr
+Mumbai,inGlobal City Virar West,,1 BHK,392 sqft,Furnish,Old Property,Ready to Move,,₹ 27 Lac
+Mumbai,inViva Maitry Heights Virar West,,2 BHK,389 sqft,Unfurnish,Old Property,Ready to Move,,₹ 33.4 Lac
+Mumbai,inMulund West,,2 BHK,680 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.67 Cr
+Mumbai,inHill View Tower Vikhroli West,,1 BHK,495 sqft,Furnish,Old Property,Ready to Move,₹ 19191 per sqft,₹ 95 Lac
+Mumbai,inTata Nagar,,2 BHK,860 sqft,Furnish,Old Property,Ready to Move,,₹ 1.55 Cr
+Mumbai,inSai Srishti Apartment Mira Road,,2 BHK,950 sqft,Furnish,Old Property,Ready to Move,,₹ 95 Lac
+Mumbai,inMumbai Central,,1 BHK,580 sqft,Furnish,Old Property,Ready to Move,,₹ 1.47 Cr
+Mumbai,inCheeta Camp,,1 BHK,60 sqft,Unfurnish,Old Property,Ready to Move,,₹ 27 Lac
+Mumbai,inGhatkopar West,,1 BHK,550 sqft,Furnish,Old Property,Ready to Move,₹ 20000 per sqft,₹ 1.10 Cr
+Mumbai,inKalyan,,2 BHK,1500 sqft,Furnish,Old Property,Ready to Move,₹ 2333 per sqft,₹ 35 Lac
+Mumbai,inKandivali East,,1 BHK,100 sqft,Furnish,Old Property,Ready to Move,,₹ 22 Lac
+Mumbai,inGorai 1,Villa,1 BHK,300 sqft,Unfurnish,Old Property,Ready to Move,₹ 20500 per sqft,₹ 61.5 Lac
+Mumbai,inKalpana Gardens Nalasopara East,,1 BHK,600 sqft,Unfurnish,Old Property,Ready to Move,₹ 4667 per sqft,₹ 28 Lac
+Mumbai,inBoisar West,Villa,2 BHK,1455 sqft,Unfurnish,New Property,Possession by Jan '23,,₹ 68 Lac
+Mumbai,inSankalp Siddhi Badlapur,,1 BHK,575 sqft,Unfurnish,Old Property,Ready to Move,₹ 4348 per sqft,₹ 25 Lac
+Mumbai,inVile Parle East,Villa,1 BHK,350 sqft,Unfurnish,Old Property,Ready to Move,₹ 15714 per sqft,₹ 55 Lac
+Mumbai,inJuhu Tara Road,,2 BHK,350 sqft,Furnish,Old Property,Ready to Move,₹ 34286 per sqft,₹ 1.20 Cr
+Mumbai,inMahindra Park Ghatkopar West,,2 BHK,630 sqft,Furnish,Old Property,Ready to Move,,₹ 1.70 Cr
+Mumbai,inMarve,,3 BHK,1100 sqft,Furnish,Old Property,Ready to Move,,₹ 1.40 Cr
+Mumbai,inMulund Colony,,2 BHK,1300 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1 Cr
+Mumbai,inNahur East,,1 BHK,350 sqft,Unfurnish,Old Property,Ready to Move,,₹ 62 Lac
+Mumbai,inLower Parel,,2 BHK,450 sqft,Furnish,New Property,Ready to Move,,₹ 1.60 Cr
+Mumbai,inBolinj,Villa,4 BHK,2500 sqft,Furnish,Old Property,Ready to Move,₹ 5800 per sqft,₹ 1.45 Cr
+Mumbai,inNaigaon East,,1 BHK,200 sqft,Unfurnish,Old Property,Ready to Move,,₹ 6.5 Lac
+Mumbai,inrawalpada,,1 BHK,225 sqft,Unfurnish,Old Property,Ready to Move,,₹ 33 Lac
+Mumbai,inVile Parle West,,1 BHK,180 sqft,Unfurnish,Old Property,Ready to Move,,₹ 16 Lac
+Mumbai,inAmbernath,,1 BHK,445 sqft,Unfurnish,New Property,Ready to Move,,₹ 22 Lac
+Mumbai,inJogeshwari East,,1 BHK,180 sqft,Unfurnish,Old Property,Ready to Move,,₹ 35 Lac
+Mumbai,inUpper Govind Nagar,,1 BHK,670 sqft,Unfurnish,New Property,Ready to Move,₹ 9552 per sqft,₹ 64 Lac
+Mumbai,inBhandup West,,2 BHK,864 sqft,Unfurnish,Old Property,Ready to Move,₹ 6250 per sqft,₹ 54 Lac
+Mumbai,invirar e,,2 BHK,1050 sqft,Furnish,Old Property,Ready to Move,₹ 5238 per sqft,₹ 55 Lac
+Mumbai,inSantacruz West,,1 BHK,650 sqft,Furnish,Old Property,Ready to Move,₹ 23077 per sqft,₹ 1.50 Cr
+Mumbai,inAndheri East,,1 BHK,450 sqft,Furnish,Old Property,Ready to Move,,₹ 65 Lac
+Mumbai,inSakinaka Junction,,2 BHK,225 sqft,Furnish,Old Property,Ready to Move,,₹ 29 Lac
+Mumbai,inGorai 3,,1 BHK,620 sqft,Furnish,Old Property,Ready to Move,₹ 12823 per sqft,₹ 79.5 Lac
+Mumbai,inSantacruz West,,2 BHK,280 sqft,Unfurnish,Old Property,Ready to Move,,₹ 32 Lac
+Mumbai,inulhasngar,,1 BHK,520 sqft,Unfurnish,Old Property,Ready to Move,,₹ 25 Lac
+Mumbai,inPushpa Park,Villa,1 BHK,200 sqft,Unfurnish,Old Property,Ready to Move,,₹ 36 Lac
+Mumbai,inSakinaka Junction,,1 BHK,550 sqft,Unfurnish,Old Property,Ready to Move,,₹ 70 Lac
+Mumbai,inMadh Village,Villa,5 BHK,1080 sqft,Unfurnish,Old Property,Ready to Move,₹ 4630 per sqft,₹ 50 Lac
+Mumbai,inMira Road,,1 BHK,350 sqft,Furnish,Old Property,Ready to Move,₹ 10000 per sqft,₹ 35 Lac
+Mumbai,inLower Parel West,,1 BHK,200 sqft,Furnish,Old Property,Ready to Move,,₹ 93 Lac
+Mumbai,inVasai West,,4 BHK,2800 sqft,Furnish,Old Property,Ready to Move,₹ 4464 per sqft,₹ 1.25 Cr
+Mumbai,inDeonar,,1 BHK,850 sqft,Unfurnish,Old Property,Ready to Move,,₹ 1.10 Cr
+Mumbai,inKurar Village,Villa,1 BHK,235 sqft,Unfurnish,Old Property,Ready to Move,₹ 9362 per sqft,₹ 22 Lac
+Mumbai,inShimpoli Junction,,2 BHK,525 sqft,Furnish,Old Property,Ready to Move,,₹ 1.55 Cr
+Mumbai,inVasai East,,2 BHK,900 sqft,Unfurnish,Old Property,Ready to Move,,₹ 55 Lac
+Mumbai,inShrinath Dham Kokan Nagar,,1 BHK,500 sqft,Furnish,Old Property,Ready to Move,₹ 10000 per sqft,₹ 50 Lac
+Mumbai,inKandivali West,,2 BHK,640 sqft,Furnish,Old Property,Ready to Move,,₹ 1.85 Cr
+Mumbai,inVasai,,3 BHK,1100 sqft,Furnish,Old Property,Ready to Move,₹ 7318 per sqft,₹ 80.5 Lac
+Mumbai,inShaheed Bhagat Singh CHS Andheri East,,2 BHK,240 sqft,Furnish,Old Property,Ready to Move,,₹ 65 Lac
+Mumbai,inVidyavihar East,,1 BHK,200 sqft,Furnish,Old Property,Ready to Move,₹ 17500 per sqft,₹ 35 Lac
+Mumbai,inNaigaon West,,1 BHK,450 sqft,Unfurnish,Old Property,Ready to Move,₹ 7556 per sqft,₹ 34 Lac
+Mumbai,inVirar West,,3 BHK,2700 sqft,Furnish,New Property,Ready to Move,,₹ 1.11 Cr
+Mumbai,inUlhasnagar,,2 BHK,1000 sqft,Unfurnish,Old Property,Ready to Move,₹ 5000 per sqft,₹ 50 Lac
+Mumbai,inAndheri East,,2 BHK,700 sqft,Furnish,Old Property,Ready to Move,₹ 9286 per sqft,₹ 65 Lac
+Mumbai,inMahamaya C H S JL Tambe Nagar,,1 BHK,350 sqft,Furnish,Old Property,Ready to Move,,₹ 71 Lac
+Mumbai,inShanta Ashish Apartment Vile Parle West,,1 BHK,480 sqft,Furnish,Old Property,Ready to Move,,₹ 1.65 Cr
+Mumbai,inKandarpada,,4 BHK,700 sqft,Furnish,Old Property,Ready to Move,,₹ 60 Lac
+Mumbai,inGorai 2,,2 BHK,750 sqft,Unfurnish,Old Property,Ready to Move,,₹ 75 Lac
+Mumbai,inThane Kalyan Dombivli,,2 BHK,640 sqft,Unfurnish,New Property,Ready to Move,,₹ 55 Lac
+Mumbai,inLink Road,,1 BHK,150 sqft,Unfurnish,Old Property,Ready to Move,,₹ 27 Lac
+Mumbai,inPANVEL,,2 BHK,,Unfurnish,Old Property,Ready to Move,,₹ 90 Lac
+Mumbai,inNirmal Polaris Mulund West,,2 BHK,778 sqft,Furnish,Old Property,Ready to Move,,₹ 1.80 Cr
+Mumbai,inGhatkopar West,,1 BHK,10 sqft,Unfurnish,Old Property,Ready to Move,,₹ 25 Lac
+Mumbai,inMithul Enclave Chembur Colony,,1 BHK,620 sqft,Unfurnish,Old Property,Ready to Move,₹ 13709 per sqft,₹ 85 Lac
